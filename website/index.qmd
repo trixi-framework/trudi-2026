@@ -1,0 +1,19 @@
+---
+title: "Trixi User and Developer Interaction (TRUDI) Workshop 2026"
+---
+
+![](assets/trixi.png){fig-alt="Trixi logo" width=220}
+
+**16–20 March 2026 · Cologne, Germany**
+
+TRUDI 2026 is a workshop bringing together users and developers of the Trixi Framework.  The program
+will feature talks, tutorials, and a hackathon aimed at consolidating the existing community,
+aligning long-term strategy, and advancing key features in high-performance scientific computing.
+
+The event is co-hosted by [SNuBIC](https://www.snubic.io/), the DFG
+research unit on "Structure-preserving Numerical Methods for Bulk and Interface-Coupling of
+Heterogeneous Models" (FOR5409).
+
+
+**Contact:** [Gregor Gassner](mailto:ggassner@uni-koeln.de) or [Michael
+Schlottke-Lakemper](michael.schlottke-lakemper@uni-a.de)

@@ -1,0 +1,9 @@
+---
+title: "Program"
+---
+
+The program will be published closer to the event.
+
+- **Mon (16 Mar):** Arrival, opening session, overview & roadmap
+- **Tue–Thu (17–19 Mar):** Technical sessions, breakouts, hacking
+- **Fri (20 Mar):** Wrap-up, action items, departure

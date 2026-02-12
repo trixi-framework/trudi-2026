@@ -1,2 +1,2 @@
-# trudi
-Public website for the TRUDI Workshop
+# trudi-2026
+Public website for the TRUDI Workshop 2026
