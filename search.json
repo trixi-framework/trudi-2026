@@ -63,6 +63,13 @@
     "text": "16–20 March 2026 · Cologne, Germany\nTRUDI 2026 is a workshop bringing together users and developers of the Trixi Framework. The program will feature talks, tutorials, and a hackathon aimed at consolidating the existing community, aligning long-term strategy, and advancing key features in high-performance scientific computing.\nThe event is co-hosted by SNuBIC, the DFG research unit on “Structure-preserving Numerical Methods for Bulk and Interface-Coupling of Heterogeneous Models” (FOR5409).\nContact: Gregor Gassner or Michael Schlottke-Lakemper"
   },
   {
+    "objectID": "snubic.html",
+    "href": "snubic.html",
+    "title": "SNuBIC",
+    "section": "",
+    "text": "SNuBIC (short title for Structure-preserving Numerical Methods for Bulk and Interface-Coupling of Heterogeneous Models) is a team of researchers funded by the German Research Foundation under the grant number DFG-FOR5409 to investigate the modeling and simulation of coupled systems described by partial differential equations (PDEs). While the development of accurate numerical methods for various types of PDEs is still a very active research field, most complex applications are described by coupled systems of several PDEs, i.e. by heterogeneous models, like magnetised plasmas, complex fluids and electro-chemical processes. Key aspects of our research unit are bulk- and interface-coupling, structure-preserving numerical methods, and re-usable code development."
+  },
+  {
     "objectID": "organizers.html",
     "href": "organizers.html",
     "title": "Organizers",
