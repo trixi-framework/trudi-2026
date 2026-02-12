@@ -2,4 +2,26 @@
 title: "Venue"
 ---
 
-TRUDI 2026 will take place at the **University of Cologne, Germany**.
+![](assets/mi_university_of_cologne.jpg){fig-alt="Mathematical Institute of the University of
+Cologne" width=425}
+
+TRUDI 2026 will take place at the Mathematical Institute of the University of Cologne, Germany.
+
+## Address
+University of Cologne  
+Faculty of Mathematics and Natural Sciences  
+Division of Mathematics  
+Weyertal 86 – 90  
+50931 Cologne  
+Germany
+
+<iframe
+  width="425"
+  height="350"
+  src="https://www.openstreetmap.org/export/embed.html?bbox=6.922486424446107%2C50.92812435936377%2C6.925705075263978%2C50.92965093021411&amp;layer=mapnik&amp;marker=50.92888765105147%2C6.9240957498550415"
+  style="border: 1px solid black">
+</iframe>
+<small>
+  <a href="https://www.openstreetmap.org/directions?from=&to=50.929045,6.924112" target="_blank">Directions (OpenStreetMap)</a> |
+  <a href="https://www.google.com/maps/place/Weyertal+86,+50931+K%C3%B6ln,+Deutschland/@50.9288833,6.9242153,17z/data=!3m1!4b1!4m2!3m1!1s0x47bf24e3bcbf6d1d:0x4ff72c4f32fa6d51?hl=de" target="_blank">Directions (Google Maps)</a>
+</small>
