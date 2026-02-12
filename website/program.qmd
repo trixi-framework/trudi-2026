@@ -4,7 +4,7 @@ title: "Program"
 
 The workshop will take place at the Mathematical Institute of the University of Cologne (see
 [Venue](venue.qmd) for directions). All scheduled talks and organized sessions will be held in the
-main room **Cohn-Vossen**. Adjacent to it, **Seminarraum 3** will serve as the catering area for
+main room **Cohn-Vossen** (room 313). Adjacent to it, **Seminarraum 3** (room 314) will serve as the catering area for
 lunch and coffee breaks and as an informal workspace for discussions and small-group collaboration,
 particularly during free or hacking sessions.
 
