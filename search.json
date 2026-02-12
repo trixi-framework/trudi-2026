@@ -14,11 +14,25 @@
     "text": "Address\nUniversity of Cologne\nFaculty of Mathematics and Natural Sciences\nDivision of Mathematics\nWeyertal 86 – 90\n50931 Cologne\nGermany\n\n\n Directions (OpenStreetMap) | Directions (Google Maps)"
   },
   {
+    "objectID": "snubic.html",
+    "href": "snubic.html",
+    "title": "SNuBIC",
+    "section": "",
+    "text": "SNuBIC (short title for Structure-preserving Numerical Methods for Bulk and Interface-Coupling of Heterogeneous Models) is a team of researchers funded by the German Research Foundation under the grant number DFG-FOR5409 to investigate the modeling and simulation of coupled systems described by partial differential equations (PDEs). While the development of accurate numerical methods for various types of PDEs is still a very active research field, most complex applications are described by coupled systems of several PDEs, i.e. by heterogeneous models, like magnetised plasmas, complex fluids and electro-chemical processes. Key aspects of our research unit are bulk- and interface-coupling, structure-preserving numerical methods, and re-usable code development."
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Trixi User and Developer Interaction (TRUDI) Workshop 2026",
+    "section": "",
+    "text": "16–20 March 2026 · Cologne, Germany\nTRUDI 2026 is a workshop bringing together users and developers of the Trixi Framework. The program will feature talks, tutorials, and a hackathon aimed at consolidating the existing community, aligning long-term strategy, and advancing key features in high-performance scientific computing.\nThe event is co-hosted by SNuBIC, the DFG research unit on “Structure-preserving Numerical Methods for Bulk and Interface-Coupling of Heterogeneous Models” (FOR5409).\nContact: Gregor Gassner or Michael Schlottke-Lakemper"
+  },
+  {
     "objectID": "program.html",
     "href": "program.html",
     "title": "Program",
     "section": "",
-    "text": "The workshop will take place at the Mathematical Institute of the University of Cologne (see Venue for directions). All scheduled talks and organized sessions will be held in the main room Cohn-Vossen. Adjacent to it, Seminarraum 3 will serve as the catering area for lunch and coffee breaks and as an informal workspace for discussions and small-group collaboration, particularly during free or hacking sessions."
+    "text": "The workshop will take place at the Mathematical Institute of the University of Cologne (see Venue for directions). All scheduled talks and organized sessions will be held in the main room Cohn-Vossen (room 313). Adjacent to it, Seminarraum 3 (room 314) will serve as the catering area for lunch and coffee breaks and as an informal workspace for discussions and small-group collaboration, particularly during free or hacking sessions."
   },
   {
     "objectID": "program.html#monday-16th-march-2026",
@@ -54,20 +68,6 @@
     "title": "Program",
     "section": "Friday, 20th March 2026",
     "text": "Friday, 20th March 2026\n\n\n\n\n\n\n\nTime\nProgram\n\n\n\n\n08:30\nWelcome coffee\n\n\n09:00\nSession 5.1\n\n\n10:30\nCoffee break\n\n\n11:00\nSession 5.2\n\n\n12:30\nClosingGregor Gassner, Michael Schlottke-Lakemper\n\n\n12:45\nLunch break, departure"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Trixi User and Developer Interaction (TRUDI) Workshop 2026",
-    "section": "",
-    "text": "16–20 March 2026 · Cologne, Germany\nTRUDI 2026 is a workshop bringing together users and developers of the Trixi Framework. The program will feature talks, tutorials, and a hackathon aimed at consolidating the existing community, aligning long-term strategy, and advancing key features in high-performance scientific computing.\nThe event is co-hosted by SNuBIC, the DFG research unit on “Structure-preserving Numerical Methods for Bulk and Interface-Coupling of Heterogeneous Models” (FOR5409).\nContact: Gregor Gassner or Michael Schlottke-Lakemper"
-  },
-  {
-    "objectID": "snubic.html",
-    "href": "snubic.html",
-    "title": "SNuBIC",
-    "section": "",
-    "text": "SNuBIC (short title for Structure-preserving Numerical Methods for Bulk and Interface-Coupling of Heterogeneous Models) is a team of researchers funded by the German Research Foundation under the grant number DFG-FOR5409 to investigate the modeling and simulation of coupled systems described by partial differential equations (PDEs). While the development of accurate numerical methods for various types of PDEs is still a very active research field, most complex applications are described by coupled systems of several PDEs, i.e. by heterogeneous models, like magnetised plasmas, complex fluids and electro-chemical processes. Key aspects of our research unit are bulk- and interface-coupling, structure-preserving numerical methods, and re-usable code development."
   },
   {
     "objectID": "organizers.html",
