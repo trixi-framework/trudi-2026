@@ -10,6 +10,7 @@ website:
       - program.qmd
       - venue.qmd
       - organizers.qmd
+      - snubic.qmd
 format:
   html:
     theme: cosmo

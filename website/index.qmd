@@ -10,7 +10,7 @@ TRUDI 2026 is a workshop bringing together users and developers of the Trixi Fra
 will feature talks, tutorials, and a hackathon aimed at consolidating the existing community,
 aligning long-term strategy, and advancing key features in high-performance scientific computing.
 
-The event is co-hosted by [SNuBIC](https://www.snubic.io/), the DFG
+The event is co-hosted by [SNuBIC](snubic.qmd), the DFG
 research unit on "Structure-preserving Numerical Methods for Bulk and Interface-Coupling of
 Heterogeneous Models" (FOR5409).
 
