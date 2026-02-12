@@ -1,0 +1,1 @@
+Sitemap: https://trixi-framework.github.io/trudi-2026/sitemap.xml

@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "program.html",
-    "href": "program.html",
-    "title": "Program",
-    "section": "",
-    "text": "The program will be published closer to the event.\n\nMon (16 Mar): Arrival, opening session, overview & roadmap\nTue–Thu (17–19 Mar): Technical sessions, breakouts, hacking\nFri (20 Mar): Wrap-up, action items, departure"
-  },
-  {
     "objectID": "venue.html",
     "href": "venue.html",
     "title": "Venue",
@@ -14,11 +7,11 @@
     "text": "TRUDI 2026 will take place at the University of Cologne, Germany."
   },
   {
-    "objectID": "organizers.html",
-    "href": "organizers.html",
-    "title": "Organizers",
+    "objectID": "program.html",
+    "href": "program.html",
+    "title": "Program",
     "section": "",
-    "text": "Gregor Gassner (University of Cologne)\nMichael Schlottke-Lakemper (University of Augsburg)\n\nContact: Gregor Gassner or Michael Schlottke-Lakemper"
+    "text": "The program will be published closer to the event.\n\nMon (16 Mar): Arrival, opening session, overview & roadmap\nTue–Thu (17–19 Mar): Technical sessions, breakouts, hacking\nFri (20 Mar): Wrap-up, action items, departure"
   },
   {
     "objectID": "index.html",
@@ -26,5 +19,12 @@
     "title": "Trixi User and Developer Interaction (TRUDI) Workshop 2026",
     "section": "",
     "text": "16–20 March 2026 · Cologne, Germany\nTRUDI 2026 is a workshop bringing together users and developers of the Trixi Framework. The program will feature talks, tutorials, and a hackathon aimed at consolidating the existing community, aligning long-term strategy, and advancing key features in high-performance scientific computing.\nThe event is co-hosted by SNuBIC, the DFG research unit on “Structure-preserving Numerical Methods for Bulk and Interface-Coupling of Heterogeneous Models” (FOR5409).\nContact: Gregor Gassner or Michael Schlottke-Lakemper"
+  },
+  {
+    "objectID": "organizers.html",
+    "href": "organizers.html",
+    "title": "Organizers",
+    "section": "",
+    "text": "Gregor Gassner (University of Cologne)\nMichael Schlottke-Lakemper (University of Augsburg)\n\nContact: Gregor Gassner or Michael Schlottke-Lakemper"
   }
 ]
