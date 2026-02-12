@@ -2,8 +2,76 @@
 title: "Program"
 ---
 
-The program will be published closer to the event.
+## Monday, 16th March 2026
 
-- **Mon (16 Mar):** Arrival, opening session, overview & roadmap
-- **Tue–Thu (17–19 Mar):** Technical sessions, breakouts, hacking
-- **Fri (20 Mar):** Wrap-up, action items, departure
+| Time  | Program |
+|-------|---------|
+| 12:30 | *Arrival, registration, lunch* |
+| 14:00 | **Opening**<br>Gregor Gassner, Michael Schlottke-Lakemper |
+| 14:15 | **Session 1.1** |
+| 15:30 | *Coffee break* |
+| 16:00 | **Free hackathon/collaboration** |
+| 17:30 | *End of day* |
+
+: {tbl-colwidths="[10,90]"}
+
+## Tuesday, 17th March 2026
+
+| Time  | Program |
+|-------|---------|
+| 08:30 | *Welcome coffee* |
+| 09:00 | **Session 2.1** |
+| 10:30 | *Coffee break* |
+| 11:00 | **Session 2.2** |
+| 12:30 | *Lunch break* |
+| 14:00 | **Session 2.3** |
+| 15:30 | *Coffee break* |
+| 16:00 | **Free hackathon/collaboration** |
+| 17:30 | *End of day* |
+
+: {tbl-colwidths="[10,90]"}
+
+## Wednesday, 18th March 2026
+
+| Time  | Program |
+|-------|---------|
+| 08:30 | *Welcome coffee* |
+| 09:00 | **Session 3.1** |
+| 10:30 | *Coffee break* |
+| 11:00 | **Session 3.2** |
+| 12:30 | *Lunch break* |
+| 14:00 | **Session 3.3** |
+| 15:30 | *Coffee break* |
+| 16:00 | **Free hackathon/collaboration** |
+| 17:30 | *End of day* |
+
+: {tbl-colwidths="[10,90]"}
+
+## Thursday, 19th March 2026
+
+| Time  | Program |
+|-------|---------|
+| 08:30 | *Welcome coffee* |
+| 09:00 | **Session 4.1** |
+| 10:30 | *Coffee break* |
+| 11:00 | **Session 4.2** |
+| 12:30 | *Lunch break* |
+| 14:00 | **Session 4.3** |
+| 15:30 | *Coffee break* |
+| 16:00 | **Free hackathon/collaboration** |
+| 17:30 | *End of day* |
+
+: {tbl-colwidths="[10,90]"}
+
+## Friday, 20th March 2026
+
+| Time  | Program |
+|-------|---------|
+| 08:30 | *Welcome coffee* |
+| 09:00 | **Session 5.1** |
+| 10:30 | *Coffee break* |
+| 11:00 | **Session 5.2** |
+| 12:30 | **Closing**<br>Gregor Gassner, Michael Schlottke-Lakemper |
+| 12:45 | *Lunch break, departure* |
+
+: {tbl-colwidths="[10,90]"}
