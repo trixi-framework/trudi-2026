@@ -4,21 +4,28 @@
     "href": "venue.html",
     "title": "Venue",
     "section": "",
-    "text": "TRUDI 2026 will take place at the University of Cologne, Germany."
+    "text": "TRUDI 2026 will take place at the Mathematical Institute of the University of Cologne, Germany."
+  },
+  {
+    "objectID": "venue.html#address",
+    "href": "venue.html#address",
+    "title": "Venue",
+    "section": "Address",
+    "text": "Address\nUniversity of Cologne\nFaculty of Mathematics and Natural Sciences\nDivision of Mathematics\nWeyertal 86 – 90\n50931 Cologne\nGermany\n\n\n Directions (OpenStreetMap) | Directions (Google Maps)"
   },
   {
     "objectID": "program.html",
     "href": "program.html",
     "title": "Program",
     "section": "",
-    "text": "Time\nProgram\n\n\n\n\n12:30\nArrival, registration, lunch\n\n\n14:00\nOpeningGregor Gassner, Michael Schlottke-Lakemper\n\n\n14:15\nSession 1.1\n\n\n15:30\nCoffee break\n\n\n16:00\nFree hackathon/collaboration\n\n\n17:30\nEnd of day"
+    "text": "The workshop will take place at the Mathematical Institute of the University of Cologne (see Venue for directions). All scheduled talks and organized sessions will be held in the main room Cohn-Vossen. Adjacent to it, Seminarraum 3 will serve as the catering area for lunch and coffee breaks and as an informal workspace for discussions and small-group collaboration, particularly during free or hacking sessions."
   },
   {
     "objectID": "program.html#monday-16th-march-2026",
     "href": "program.html#monday-16th-march-2026",
     "title": "Program",
-    "section": "",
-    "text": "Time\nProgram\n\n\n\n\n12:30\nArrival, registration, lunch\n\n\n14:00\nOpeningGregor Gassner, Michael Schlottke-Lakemper\n\n\n14:15\nSession 1.1\n\n\n15:30\nCoffee break\n\n\n16:00\nFree hackathon/collaboration\n\n\n17:30\nEnd of day"
+    "section": "Monday, 16th March 2026",
+    "text": "Monday, 16th March 2026\n\n\n\n\n\n\n\nTime\nProgram\n\n\n\n\n12:30\nArrival, registration, lunch\n\n\n14:00\nOpeningGregor Gassner, Michael Schlottke-Lakemper\n\n\n14:15\nSession 1.1\n\n\n15:30\nCoffee break\n\n\n16:00\nFree hackathon/collaboration\n\n\n17:30\nEnd of day"
   },
   {
     "objectID": "program.html#tuesday-17th-march-2026",
