@@ -13,6 +13,8 @@ website:
       - snubic.qmd
   page-footer:
     right:
+      - href: organizers.qmd
+        text: Contact
       - href: https://uni-koeln.de/impressum
         text: Imprint
 format:

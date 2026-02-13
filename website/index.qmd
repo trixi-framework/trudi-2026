@@ -11,14 +11,66 @@ title: "Trixi User and Developer Interaction (TRUDI) Workshop 2026"
   </figure>
 </div>
 
-TRUDI 2026 is a workshop bringing together users and developers of the Trixi Framework.  The program
-will feature talks, tutorials, and a hackathon aimed at consolidating the existing community,
-aligning long-term strategy, and advancing key features in high-performance scientific computing.
+TRUDI 2026 is a workshop bringing together users and developers of the Trixi Framework, which
+includes the Julia packages [Trixi.jl](https://github.com/trixi-framework/Trixi.jl),
+[TrixiShallowWater.jl](https://github.com/trixi-framework/TrixiShallowWater.jl),
+[TrixiAtmo.jl](https://github.com/trixi-framework/TrixiAtmo.jl), and
+[TrixiParticles.jl](https://github.com/trixi-framework/TrixiParticles.jl). The program will feature
+talks, tutorials, and hackathons aimed at consolidating the existing community, aligning long-term
+strategy, and advancing key features in high-performance scientific computing.
+
+<div class="pkg-grid">
+
+  <figure class="pkg-card">
+    <a class="pkg-card-link"
+      href="https://github.com/trixi-framework/Trixi.jl"
+      target="_blank" rel="noopener"
+      aria-label="Trixi.jl on GitHub"></a>
+    <img src="assets/trixi.png" alt="Trixi.jl logo">
+    <figcaption>
+      <div class="pkg-title">Trixi.jl</div>
+      <div class="pkg-subtitle">adaptive high-order CFD</div>
+    </figcaption>
+  </figure>
+
+  <figure class="pkg-card">
+    <a class="pkg-card-link"
+      href="https://github.com/trixi-framework/TrixiShallowWater.jl"
+      target="_blank" rel="noopener"
+      aria-label="TrixiShallowWater.jl on GitHub"></a>
+    <img src="assets/logo_sw.png" alt="TrixiShallowWater.jl logo">
+    <figcaption>
+      <div class="pkg-title">TrixiShallowWater.jl</div>
+      <div class="pkg-subtitle">SWE applications</div>
+    </figcaption>
+  </figure>
+
+  <figure class="pkg-card">
+    <a class="pkg-card-link"
+      href="https://github.com/trixi-framework/TrixiAtmo.jl"
+      target="_blank" rel="noopener"
+      aria-label="TrixiAtmo.jl on GitHub"></a>
+    <img src="assets/logo_atmo.png" alt="TrixiAtmo.jl logo">
+    <figcaption>
+      <div class="pkg-title">TrixiAtmo.jl</div>
+      <div class="pkg-subtitle">atmospheric flow</div>
+    </figcaption>
+  </figure>
+
+  <figure class="pkg-card">
+    <a class="pkg-card-link"
+      href="https://github.com/trixi-framework/TrixiParticles.jl"
+      target="_blank" rel="noopener"
+      aria-label="TrixiParticles.jl on GitHub"></a>
+    <img src="assets/trixiparticles-jl.svg" alt="TrixiParticles.jl logo">
+    <figcaption>
+      <div class="pkg-title">TrixiParticles.jl</div>
+      <div class="pkg-subtitle">particle-based multiphysics</div>
+    </figcaption>
+  </figure>
+
+</div>
 
 The event is co-hosted by [SNuBIC](snubic.qmd), the DFG
 research unit on "Structure-preserving Numerical Methods for Bulk and Interface-Coupling of
 Heterogeneous Models" (FOR5409).
-
-
-**Contact:** [Gregor Gassner](mailto:ggassner@uni-koeln.de) or [Michael
-Schlottke-Lakemper](michael.schlottke-lakemper@uni-a.de)

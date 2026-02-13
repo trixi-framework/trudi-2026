@@ -27,3 +27,115 @@
 .logo-box img{
   display: block;   /* prevents baseline gaps */
 }
+
+.pkg-grid{
+  display: grid;
+  grid-template-columns: repeat(4, minmax(0, 1fr));
+  gap: 18px;
+  align-items: stretch;
+  margin: 1.25rem 0 1.75rem 0;
+}
+
+.pkg-card{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+
+  padding: 14px 14px 12px 14px;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  background: #fff;
+  box-shadow: 0 2px 10px rgba(0,0,0,.06);
+
+  margin: 0; /* override Quarto figure margin */
+}
+
+.pkg-card{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  text-align: center;
+
+  padding: 14px 14px 12px 14px;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  background: #fff;
+  box-shadow: 0 2px 10px rgba(0,0,0,.06);
+
+  margin: 0;
+  transition: all .12s ease-in-out;   /* smooth animation */
+  position: relative;
+}
+
+.pkg-card:hover{
+  box-shadow: 0 4px 14px rgba(0,0,0,.10);
+  border-color: #cfcfcf;
+  transform: translateY(-1px);
+}
+
+/* create a fixed square logo slot */
+.pkg-card img{
+  width: 100%;
+  height: 150px;          /* slot height */
+  max-width: 150px;       /* slot width = height → square */
+  object-fit: contain;    /* keep aspect ratio inside slot */
+  display: block;
+  margin: 0 auto 10px auto;
+}
+
+/* align text consistently */
+.pkg-card figcaption{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: flex-start;
+  min-height: 3.2em;      /* aligns captions across cards */
+}
+
+/* invisible full-card link */
+.pkg-card-link{
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+  border-radius: 12px;
+}
+
+.pkg-title{
+  display: inline-block;
+  margin-top: 10px;
+  font-weight: 700;
+  text-decoration: none;
+  position: relative;
+}
+
+.pkg-subtitle{
+  margin-top: 2px;
+  font-size: 0.95rem;
+  opacity: 0.85;
+}
+
+/* responsive */
+@media (max-width: 992px){
+  .pkg-grid{ grid-template-columns: repeat(2, minmax(0, 1fr)); }
+}
+@media (max-width: 576px){
+  .pkg-grid{ grid-template-columns: 1fr; }
+  .pkg-card img{ max-width: 260px; }
+}
+
+.pkg-link{
+  text-decoration: none;
+  color: inherit;
+  display: block;           /* makes the link fill the grid cell */
+}
+
+.pkg-link:focus-visible .pkg-card,
+.pkg-link:hover .pkg-card{
+  box-shadow: 0 4px 14px rgba(0,0,0,.10);
+  border-color: #cfcfcf;
+  transform: translateY(-1px);
+  transition: all .12s ease-in-out;
+}
+
