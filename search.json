@@ -4,7 +4,7 @@
     "href": "venue.html",
     "title": "Venue",
     "section": "",
-    "text": "TRUDI 2026 will take place at the Mathematical Institute of the University of Cologne, Germany."
+    "text": "TRUDI 2026 will take place at the Mathematical Institute of the University of Cologne, Germany.\nAll scheduled talks and organized sessions will be held in the main room Cohn-Vossen (room 313). Adjacent to it, Seminarraum 3 (room 314) will serve as the catering area for lunch and coffee breaks and as an informal workspace for discussions and small-group collaboration, particularly during free or hacking sessions."
   },
   {
     "objectID": "venue.html#address",
@@ -14,11 +14,60 @@
     "text": "Address\nUniversity of Cologne\nFaculty of Mathematics and Natural Sciences\nDivision of Mathematics\nWeyertal 86 – 90\n50931 Cologne\nGermany\n\n\n Directions (OpenStreetMap) | Directions (Google Maps)"
   },
   {
+    "objectID": "venue.html#evening-activities",
+    "href": "venue.html#evening-activities",
+    "title": "Venue",
+    "section": "Evening activities",
+    "text": "Evening activities\nThere are many restaurants and bars in Cologne (obviously!). Relatively close to the workshop venue is an area called Zülpicher Straße, starting at the tram station Dasselstraße/Bf Süd. There are many options for dinner and drinks.\n\n\n Directions (OpenStreetMap) | Directions (Google Maps)"
+  },
+  {
     "objectID": "snubic.html",
     "href": "snubic.html",
     "title": "SNuBIC",
     "section": "",
     "text": "SNuBIC (short title for Structure-preserving Numerical Methods for Bulk and Interface-Coupling of Heterogeneous Models) is a team of researchers funded by the German Research Foundation under the grant number DFG-FOR5409 to investigate the modeling and simulation of coupled systems described by partial differential equations (PDEs). While the development of accurate numerical methods for various types of PDEs is still a very active research field, most complex applications are described by coupled systems of several PDEs, i.e. by heterogeneous models, like magnetised plasmas, complex fluids and electro-chemical processes. Key aspects of our research unit are bulk- and interface-coupling, structure-preserving numerical methods, and re-usable code development."
+  },
+  {
+    "objectID": "program.html",
+    "href": "program.html",
+    "title": "Program",
+    "section": "",
+    "text": "The workshop will take place at the Mathematical Institute of the University of Cologne (see Venue for directions). All scheduled talks and organized sessions will be held in the main room Cohn-Vossen (room 313). Adjacent to it, Seminarraum 3 (room 314) will serve as the catering area for lunch and coffee breaks and as an informal workspace for discussions and small-group collaboration, particularly during free or hacking sessions.\nThere are four types of contributions: plenary talks, contributed talks, one idea talks, and hands-on sessions:\nIn addition, each afternoon there is an open session to interact and collaborate with other TRUDIs. These slots can be freely used for, e.g., small meetings, coding sessions, or spontaneous science heurekas."
+  },
+  {
+    "objectID": "program.html#monday-16th-march-2026",
+    "href": "program.html#monday-16th-march-2026",
+    "title": "Program",
+    "section": "Monday, 16th March 2026",
+    "text": "Monday, 16th March 2026\n\n\n\n\n\n\n\nTime\nProgram\n\n\n\n\n12:30\nArrival, registration, lunch\n\n\n14:00\nOpeningGregor Gassner, Michael Schlottke-Lakemper\n\n\n14:15\nPlenary talk (Chair: Gregor Gassner)TBDMichael Schlottke-Lakemper, Hendrik Ranocha\n\n\n15:30\nCoffee break\n\n\n16:00\nFree hackathon/collaboration\n\n\n17:30\nEnd of day"
+  },
+  {
+    "objectID": "program.html#tuesday-17th-march-2026",
+    "href": "program.html#tuesday-17th-march-2026",
+    "title": "Program",
+    "section": "Tuesday, 17th March 2026",
+    "text": "Tuesday, 17th March 2026\n\n\n\n\n\n\n\nTime\nProgram\n\n\n\n\n08:30\nWelcome coffee\n\n\n09:00\nPlenary talk (Chair: Jesse Chan)TBDValentin Churavy\n\n\n10:30\nCoffee break\n\n\n11:00\nContributed talks (Chair: Andrés Rueda-Ramírez)TBDTristan MontoyaTBDOswald KnothTBDMarco Artiano\n\n\n12:30\nLunch break\n\n\n14:00\nHands-on sessionTrixiAtmo.jlBenedict Geihe, Philipp Baasch, Tristan Montoya, Marco Artiano\n\n\n15:30\nCoffee break\n\n\n16:00\nFree hackathon/collaboration\n\n\n17:30\nEnd of day"
+  },
+  {
+    "objectID": "program.html#wednesday-18th-march-2026",
+    "href": "program.html#wednesday-18th-march-2026",
+    "title": "Program",
+    "section": "Wednesday, 18th March 2026",
+    "text": "Wednesday, 18th March 2026\n\n\n\n\n\n\n\nTime\nProgram\n\n\n\n\n08:30\nWelcome coffee\n\n\n09:00\nPlenary talk (Chair: Gregor Gassner)TBDJürgen Fuhrmann\n\n\n10:30\nCoffee break\n\n\n11:00\nContributed talks (Chair: Hendrik Ranocha)TBDSimon CandelaresiTBDVivienne EhlertTBDErik Faulhaber, Niklas Neher\n\n\n12:30\nLunch break\n\n\n14:00\nHands-on sessionTrixiParticles.jlSven Berger, Erik Faulhaber, Niklas Neher\n\n\n15:30\nCoffee break\n\n\n16:00\nFree hackathon/collaboration\n\n\n17:30\nEnd of day"
+  },
+  {
+    "objectID": "program.html#thursday-19th-march-2026",
+    "href": "program.html#thursday-19th-march-2026",
+    "title": "Program",
+    "section": "Thursday, 19th March 2026",
+    "text": "Thursday, 19th March 2026\n\n\n\n\n\n\n\nTime\nProgram\n\n\n\n\n08:30\nWelcome coffee\n\n\n09:00\nPlenary talk (Chair: David Kopriva)TBDJesse Chan\n\n\n10:30\nCoffee break\n\n\n11:00\nContributed talks (Chair: Andrew Winters)TBDDaniel DöhringTBDPatrick ErsingNew HOHQMesh FeaturesDavid Kopriva\n\n\n12:30\nLunch break\n\n\n14:00\nHands-on sessionHOHQMesh.jlDavid Kopriva, Andrew WintersTrixiShallowWater.jlAndrew Winters, Patrick Ersing\n\n\n15:30\nCoffee break\n\n\n16:00\nOpen feedback session | Free hackathon/collaboration\n\n\n17:30\nEnd of day"
+  },
+  {
+    "objectID": "program.html#friday-20th-march-2026",
+    "href": "program.html#friday-20th-march-2026",
+    "title": "Program",
+    "section": "Friday, 20th March 2026",
+    "text": "Friday, 20th March 2026\n\n\n\n\n\n\n\nTime\nProgram\n\n\n\n\n08:30\nWelcome coffee\n\n\n09:00\nPlenary talk (Chair: Gregor Gassner)TBDAndrés Rueda-Ramírez\n\n\n10:30\nCoffee break\n\n\n11:00\nOne idea talks (Chair: Michael Schlottke-Lakemper)TBDBenjamin BolmTBDDaniel BachTBDHenry HaaseTBDArpit Babbar\n\n\n12:20\nClosingGregor Gassner, Michael Schlottke-Lakemper\n\n\n12:30\nLunch, departure 😭"
   },
   {
     "objectID": "index.html",
@@ -28,46 +77,11 @@
     "text": "16–20 March 2026 • Cologne, Germany\n\n\n\nTRUDI 2026 is a workshop bringing together users and developers of the Trixi Framework, which includes the Julia packages Trixi.jl, TrixiShallowWater.jl, TrixiAtmo.jl, and TrixiParticles.jl. The program will feature talks, tutorials, and hackathons aimed at consolidating the existing community, aligning long-term strategy, and advancing key features in high-performance scientific computing.\n\n\n \n\n\nTrixi.jl\n\n\nadaptive high-order CFD\n\n\n\n\n \n\n\nTrixiShallowWater.jl\n\n\nSWE applications\n\n\n\n\n \n\n\nTrixiAtmo.jl\n\n\natmospheric flow\n\n\n\n\n \n\n\nTrixiParticles.jl\n\n\nparticle-based multiphysics\n\n\n\n\nIn addition to the main Trixi Framework packages, we rely on - and actively collaborate with - a broader ecosystem of upstream dependencies and partner projects maintained by members of our community, including (but not limited to):\n\nHOHQMesh · HOHQMesh.jl\nlibtrixi\np4est · P4est.jl\nPointNeighbors.jl\nStartUpDG.jl\nSummationByPartsOperators.jl\nt8code · T8code.jl\nTrixi2Vtk.jl\nTrixiBottomTopography.jl\n\nThe event is co-hosted by SNuBIC, the DFG research unit on “Structure-preserving Numerical Methods for Bulk and Interface-Coupling of Heterogeneous Models” (FOR5409)."
   },
   {
-    "objectID": "program.html",
-    "href": "program.html",
-    "title": "Program",
+    "objectID": "participants.html",
+    "href": "participants.html",
+    "title": "Participants",
     "section": "",
-    "text": "The workshop will take place at the Mathematical Institute of the University of Cologne (see Venue for directions). All scheduled talks and organized sessions will be held in the main room Cohn-Vossen (room 313). Adjacent to it, Seminarraum 3 (room 314) will serve as the catering area for lunch and coffee breaks and as an informal workspace for discussions and small-group collaboration, particularly during free or hacking sessions."
-  },
-  {
-    "objectID": "program.html#monday-16th-march-2026",
-    "href": "program.html#monday-16th-march-2026",
-    "title": "Program",
-    "section": "Monday, 16th March 2026",
-    "text": "Monday, 16th March 2026\n\n\n\n\n\n\n\nTime\nProgram\n\n\n\n\n12:30\nArrival, registration, lunch\n\n\n14:00\nOpeningGregor Gassner, Michael Schlottke-Lakemper\n\n\n14:15\nHands-on: Julia for HPC with Trixi.jlValentin Churavy\n\n\n15:30\nCoffee break\n\n\n16:00\nFree hackathon/collaboration\n\n\n17:30\nEnd of day"
-  },
-  {
-    "objectID": "program.html#tuesday-17th-march-2026",
-    "href": "program.html#tuesday-17th-march-2026",
-    "title": "Program",
-    "section": "Tuesday, 17th March 2026",
-    "text": "Tuesday, 17th March 2026\n\n\n\n\n\n\n\nTime\nProgram\n\n\n\n\n08:30\nWelcome coffee\n\n\n09:00\nChair: Jesse ChanTBDMichael Schlottke-Lakemper, Hendrik Ranocha\n\n\n10:30\nCoffee break\n\n\n11:00\nChair: Andrés Rueda-RamírezTBDTristan MontoyaTBDOswald KnothTBDMarco Artiano\n\n\n12:30\nLunch break\n\n\n14:00\nHands-on: TrixiAtmo.jlBenedict Geihe, Philipp Baasch, Tristan Montoya, Marco Artiano\n\n\n15:30\nCoffee break\n\n\n16:00\nFree hackathon/collaboration\n\n\n17:30\nEnd of day"
-  },
-  {
-    "objectID": "program.html#wednesday-18th-march-2026",
-    "href": "program.html#wednesday-18th-march-2026",
-    "title": "Program",
-    "section": "Wednesday, 18th March 2026",
-    "text": "Wednesday, 18th March 2026\n\n\n\n\n\n\n\nTime\nProgram\n\n\n\n\n08:30\nWelcome coffee\n\n\n09:00\nChair: Gregor GassnerTBDJürgen Fuhrmann\n\n\n10:30\nCoffee break\n\n\n11:00\nChair: Hendrik RanochaTBDDaniel BachTBDVivienne EhlertTBDErik Faulhaber, Niklas Neher\n\n\n12:30\nLunch break\n\n\n14:00\nHands-on: TrixiParticles.jlSven Berger, Erik Faulhaber, Niklas Neher\n\n\n15:30\nCoffee break\n\n\n16:00\nFree hackathon/collaboration\n\n\n17:30\nEnd of day"
-  },
-  {
-    "objectID": "program.html#thursday-19th-march-2026",
-    "href": "program.html#thursday-19th-march-2026",
-    "title": "Program",
-    "section": "Thursday, 19th March 2026",
-    "text": "Thursday, 19th March 2026\n\n\n\n\n\n\n\nTime\nProgram\n\n\n\n\n08:30\nWelcome coffee\n\n\n09:00\nChair: David KoprivaTBDJesse Chan\n\n\n10:30\nCoffee break\n\n\n11:00\nChair: Andrew WintersTBDSimon CandelaresiTBDPatrick ErsingTBDDavid Kopriva\n\n\n12:30\nLunch break\n\n\n14:00\nHands-on: HohqMesh.jlDavid Kopriva, Andrew WintersHands-on: TrixiShallowWater.jlAndrew Winters, Patrick Ersing\n\n\n15:30\nCoffee break\n\n\n16:00\nFree hackathon/collaboration\n\n\n17:30\nEnd of day"
-  },
-  {
-    "objectID": "program.html#friday-20th-march-2026",
-    "href": "program.html#friday-20th-march-2026",
-    "title": "Program",
-    "section": "Friday, 20th March 2026",
-    "text": "Friday, 20th March 2026\n\n\n\n\n\n\n\nTime\nProgram\n\n\n\n\n08:30\nWelcome coffee\n\n\n09:00\nChair: Michael Schlottke-LakemperTBDAndrés Rueda-Ramírez\n\n\n10:30\nCoffee break\n\n\n11:00\nChair: Gregor GassnerTBDDaniel DöhringTBDBenjamin BolmTBDHenry Haase\n\n\n12:30\nClosingGregor Gassner, Michael Schlottke-Lakemper\n\n\n12:45\nLunch break, departure"
+    "text": "Marco Artiano, Johannes Gutenberg-University Mainz, Germany\nPhilipp Baasch, University of Cologne, Germany\nArpit Babbar, Johannes Gutenberg-University Mainz, Germany\nDaniel Bach, University of Cologne, Germany\nSven Berger, Helmholtz-Zentrum Hereon, Geesthacht, Germany\nBenjamin Bolm, University of Cologne, Germany\nSimon Candelaresi, University of Augsburg, Germany\nJesse Chan, University of Texas at Austin, USA\nValentin Churavy, University of Augsburg, Germany\nDaniel Döhring, RWTH Aachen University, Germany\nVivienne Ehlert, University of Augsburg, Germany\nPatrick Ersing, Linköping University, Sweden\nErik Faulhaber, University of Cologne, Germany\nJürgen Fuhrmann, Weierstrass Institute, Berlin, Germany\nGregor Gassner, University of Cologne, Germany\nBenedict Geihe, University of Cologne, Germany\nHenry Haase, Linköping University, Sweden\nSherin Joseph, University of Augsburg, Germany\nOswald Knoth, Leibniz Institute for Tropospheric Research, Leipzig, Germany\nDavid Kopriva, San Diego State University, USA\nTristan Montoya, University of Saskatchewan, Canada\nNiklas Neher, University of Stuttgart, Germany\nHendrik Ranocha, Johannes Gutenberg-University Mainz, Germany\nAndrés Rueda-Ramírez, Polytechnic University of Madrid, Spain\nMichael Schlottke-Lakemper, University of Augsburg, Germany\nAndrew Winters, Linköping University, Sweden"
   },
   {
     "objectID": "organizers.html",
