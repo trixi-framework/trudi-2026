@@ -15,20 +15,20 @@ hands-on sessions:
 * **Plenary talks** have a complete 90-minute slot (approx. 75 minutes contribution + 15 minutes
   discussion) and can be a regular scientific presentation, a package introduction, a hands-on
   session, or a mixture thereof. Presenters are encouraged to add their slides to the
-  [trudi-2026-material](https://github.com/trixi-framework/trudi-2026-material) repository.
+  [trudi-2026-materials](https://github.com/trixi-framework/trudi-2026-materials) repository.
 * **Contributed talks** have a 30-minute slot for a regular scientific presentation (approx. 25
   minutes contribution + 5 minutes discussion) and are often thematically related to the afternoon
   hands-on sessions. Presenters are encouraged to add their slides to the
-  [trudi-2026-material](https://github.com/trixi-framework/trudi-2026-material) repository.
+  [trudi-2026-materials](https://github.com/trixi-framework/trudi-2026-materials) repository.
 * **One idea talks** have a 20-minute slot (approx. 15 minutes contribution + 5 minutes discussion)
   to present one specific concept (scheme, algorithm, code part etc.) or "one idea". Presenters are
   encouraged to add their slides to the
-  [trudi-2026-material](https://github.com/trixi-framework/trudi-2026-material) repository.
+  [trudi-2026-materials](https://github.com/trixi-framework/trudi-2026-materials) repository.
 * **Hands-on sessions** have a complete 90-minute slot and its structure is completely up to the
   presenters. We suggest to include, e.g., features and capabilities, algorithmic and HPC aspects,
   current state and future developments, and an introduction into how to set up and run a simulation
   with your package. Any additional material for the TRUDI audience should be added to the
-  [trudi-2026-material](https://github.com/trixi-framework/trudi-2026-material) repository.
+  [trudi-2026-materials](https://github.com/trixi-framework/trudi-2026-materials) repository.
 
 In addition, each afternoon there is an **open session** to interact and collaborate with other
 TRUDIs.  These slots can be freely used for, e.g., small meetings, coding sessions, or spontaneous
