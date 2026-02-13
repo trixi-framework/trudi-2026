@@ -11,6 +11,10 @@ website:
       - venue.qmd
       - organizers.qmd
       - snubic.qmd
+  page-footer:
+    right:
+      - href: https://uni-koeln.de/impressum
+        text: Imprint
 format:
   html:
     theme: cosmo
