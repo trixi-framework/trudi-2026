@@ -3,10 +3,36 @@ title: "Program"
 ---
 
 The workshop will take place at the Mathematical Institute of the University of Cologne (see
-[Venue](venue.qmd) for directions). All scheduled talks and organized sessions will be held in the
+[Venue](venue.qmd) for directions).
+All scheduled talks and organized sessions will be held in the
 main room **Cohn-Vossen** (room 313). Adjacent to it, **Seminarraum 3** (room 314) will serve as the catering area for
 lunch and coffee breaks and as an informal workspace for discussions and small-group collaboration,
 particularly during free or hacking sessions.
+
+There are four types of contributions: plenary talks, contributed talks, one idea talks, and
+hands-on sessions:
+
+* **Plenary talks** have a complete 90-minute slot (approx. 75 minutes contribution + 15 minutes
+  discussion) and can be a regular scientific presentation, a package introduction, a hands-on
+  session, or a mixture thereof. Presenters are encouraged to add their slides to the
+  [trudi-2026-material](https://github.com/trixi-framework/trudi-2026-material) repository.
+* **Contributed talks** have a 30-minute slot for a regular scientific presentation (approx. 25
+  minutes contribution + 5 minutes discussion) and are often thematically related to the afternoon
+  hands-on sessions. Presenters are encouraged to add their slides to the
+  [trudi-2026-material](https://github.com/trixi-framework/trudi-2026-material) repository.
+* **One idea talks** have a 20-minute slot (approx. 15 minutes contribution + 5 minutes discussion)
+  to present one specific concept (scheme, algorithm, code part etc.) or "one idea". Presenters are
+  encouraged to add their slides to the
+  [trudi-2026-material](https://github.com/trixi-framework/trudi-2026-material) repository.
+* **Hands-on sessions** have a complete 90-minute slot and its structure is completely up to the
+  presenters. We suggest to include, e.g., features and capabilities, algorithmic and HPC aspects,
+  current state and future developments, and an introduction into how to set up and run a simulation
+  with your package. Any additional material for the TRUDI audience should be added to the
+  [trudi-2026-material](https://github.com/trixi-framework/trudi-2026-material) repository.
+
+In addition, each afternoon there is an **open session** to interact and collaborate with other
+TRUDIs.  These slots can be freely used for, e.g., small meetings, coding sessions, or spontaneous
+science heurekas.
 
 ::: {.callout-warning appearance="simple"}
 **Provisional program.**
@@ -19,7 +45,7 @@ This schedule is a preliminary outline and subject to change. Session contents, 
 |-------|---------|
 | 12:30 | *Arrival, registration, lunch* |
 | 14:00 | **Opening**<br>Gregor Gassner, Michael Schlottke-Lakemper |
-| 14:15 | **Hands-on: Julia for HPC with Trixi.jl**<br>Valentin Churavy|
+| 14:15 | *Plenary talk (Chair: Gregor Gassner)*<br><br>**TBD**<br>Michael Schlottke-Lakemper, Hendrik Ranocha|
 | 15:30 | *Coffee break* |
 | 16:00 | **Free hackathon/collaboration** |
 | 17:30 | *End of day* |
@@ -31,11 +57,11 @@ This schedule is a preliminary outline and subject to change. Session contents, 
 | Time  | Program |
 |-------|---------|
 | 08:30 | *Welcome coffee* |
-| 09:00 | *Chair: Jesse Chan*<br><br>**TBD**<br>Michael Schlottke-Lakemper, Hendrik Ranocha |
+| 09:00 | *Plenary talk (Chair: Jesse Chan)*<br><br>**TBD**<br>Valentin Churavy |
 | 10:30 | *Coffee break* |
-| 11:00 | *Chair: Andrés Rueda-Ramírez*<br><br>**TBD**<br>Tristan Montoya<br><br>**TBD**<br>Oswald Knoth<br><br>**TBD**<br>Marco Artiano |
+| 11:00 | *Contributed talks (Chair: Andrés Rueda-Ramírez)*<br><br>**TBD**<br>Tristan Montoya<br><br>**TBD**<br>Oswald Knoth<br><br>**TBD**<br>Marco Artiano |
 | 12:30 | *Lunch break* |
-| 14:00 | **Hands-on: TrixiAtmo.jl**<br>Benedict Geihe, Philipp Baasch, Tristan Montoya, Marco Artiano |
+| 14:00 | *Hands-on session*<br><br>**TrixiAtmo.jl**<br>Benedict Geihe, Philipp Baasch, Tristan Montoya, Marco Artiano |
 | 15:30 | *Coffee break* |
 | 16:00 | **Free hackathon/collaboration** |
 | 17:30 | *End of day* |
@@ -47,11 +73,11 @@ This schedule is a preliminary outline and subject to change. Session contents, 
 | Time  | Program |
 |-------|---------|
 | 08:30 | *Welcome coffee* |
-| 09:00 | *Chair: Gregor Gassner*<br><br>**TBD**<br>Jürgen Fuhrmann |
+| 09:00 | *Plenary talk (Chair: Gregor Gassner)*<br><br>**TBD**<br>Jürgen Fuhrmann |
 | 10:30 | *Coffee break* |
-| 11:00 | *Chair: Hendrik Ranocha*<br><br>**TBD**<br>Daniel Bach<br><br>**TBD**<br>Vivienne Ehlert<br><br>**TBD**<br>Erik Faulhaber, Niklas Neher |
+| 11:00 | *Contributed talks (Chair: Hendrik Ranocha)*<br><br>**TBD**<br>Simon Candelaresi<br><br>**TBD**<br>Vivienne Ehlert<br><br>**TBD**<br>Erik Faulhaber, Niklas Neher |
 | 12:30 | *Lunch break* |
-| 14:00 | **Hands-on: TrixiParticles.jl**<br>Sven Berger, Erik Faulhaber, Niklas Neher |
+| 14:00 | *Hands-on session*<br><br>**TrixiParticles.jl**<br>Sven Berger, Erik Faulhaber, Niklas Neher |
 | 15:30 | *Coffee break* |
 | 16:00 | **Free hackathon/collaboration** |
 | 17:30 | *End of day* |
@@ -63,13 +89,13 @@ This schedule is a preliminary outline and subject to change. Session contents, 
 | Time  | Program |
 |-------|---------|
 | 08:30 | *Welcome coffee* |
-| 09:00 | *Chair: David Kopriva*<br><br>**TBD**<br>Jesse Chan |
+| 09:00 | *Plenary talk (Chair: David Kopriva)*<br><br>**TBD**<br>Jesse Chan |
 | 10:30 | *Coffee break* |
-| 11:00 | *Chair: Andrew Winters*<br><br>**TBD**<br>Simon Candelaresi<br><br>**TBD**<br>Patrick Ersing<br><br>**TBD**<br>David Kopriva |
+| 11:00 | *Contributed talks (Chair: Andrew Winters)*<br><br>**TBD**<br>Daniel Döhring<br><br>**TBD**<br>Patrick Ersing<br><br>**New HOHQMesh Features**<br>David Kopriva |
 | 12:30 | *Lunch break* |
-| 14:00 | **Hands-on: HohqMesh.jl**<br>David Kopriva, Andrew Winters<br><br>**Hands-on: TrixiShallowWater.jl**<br>Andrew Winters, Patrick Ersing |
+| 14:00 | *Hands-on session*<br><br>**HOHQMesh.jl**<br>David Kopriva, Andrew Winters<br><br>**TrixiShallowWater.jl**<br>Andrew Winters, Patrick Ersing |
 | 15:30 | *Coffee break* |
-| 16:00 | **Free hackathon/collaboration** |
+| 16:00 | **Open feedback session \| Free hackathon/collaboration** |
 | 17:30 | *End of day* |
 
 : {tbl-colwidths="[10,90]"}
@@ -79,10 +105,10 @@ This schedule is a preliminary outline and subject to change. Session contents, 
 | Time  | Program |
 |-------|---------|
 | 08:30 | *Welcome coffee* |
-| 09:00 | *Chair: Michael Schlottke-Lakemper*<br><br>**TBD**<br>Andrés Rueda-Ramírez |
+| 09:00 | *Plenary talk (Chair: Gregor Gassner)*<br><br>**TBD**<br>Andrés Rueda-Ramírez |
 | 10:30 | *Coffee break* |
-| 11:00 | *Chair: Gregor Gassner*<br><br>**TBD**<br>Daniel Döhring<br><br>**TBD**<br>Benjamin Bolm<br><br>**TBD**<br>Henry Haase |
-| 12:30 | **Closing**<br>Gregor Gassner, Michael Schlottke-Lakemper |
-| 12:45 | *Lunch break, departure* |
+| 11:00 | *One idea talks (Chair: Michael Schlottke-Lakemper)*<br><br>**TBD**<br>Benjamin Bolm<br><br>**TBD**<br>Daniel Bach<br><br>**TBD**<br>Henry Haase<br><br>**TBD**<br>Arpit Babbar |
+| 12:20 | **Closing**<br>Gregor Gassner, Michael Schlottke-Lakemper |
+| 12:30 | *Lunch, departure* 😭 |
 
 : {tbl-colwidths="[10,90]"}
