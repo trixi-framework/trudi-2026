@@ -8,13 +8,18 @@ main room **Cohn-Vossen** (room 313). Adjacent to it, **Seminarraum 3** (room 31
 lunch and coffee breaks and as an informal workspace for discussions and small-group collaboration,
 particularly during free or hacking sessions.
 
+::: {.callout-warning appearance="simple"}
+**Provisional program.**
+This schedule is a preliminary outline and subject to change. Session contents, speakers, and timings may be updated as the workshop approaches.
+:::
+
 ## Monday, 16th March 2026
 
 | Time  | Program |
 |-------|---------|
 | 12:30 | *Arrival, registration, lunch* |
 | 14:00 | **Opening**<br>Gregor Gassner, Michael Schlottke-Lakemper |
-| 14:15 | **Session 1.1** |
+| 14:15 | **Hands-on: Julia for HPC with Trixi.jl**<br>Valentin Churavy|
 | 15:30 | *Coffee break* |
 | 16:00 | **Free hackathon/collaboration** |
 | 17:30 | *End of day* |
@@ -26,11 +31,11 @@ particularly during free or hacking sessions.
 | Time  | Program |
 |-------|---------|
 | 08:30 | *Welcome coffee* |
-| 09:00 | **Session 2.1** |
+| 09:00 | *Chair: Jesse Chan*<br><br>**TBD**<br>Michael Schlottke-Lakemper, Hendrik Ranocha |
 | 10:30 | *Coffee break* |
-| 11:00 | **Session 2.2** |
+| 11:00 | *Chair: Andrés Rueda-Ramírez*<br><br>**TBD**<br>Tristan Montoya<br><br>**TBD**<br>Oswald Knoth<br><br>**TBD**<br>Marco Artiano |
 | 12:30 | *Lunch break* |
-| 14:00 | **Session 2.3** |
+| 14:00 | **Hands-on: TrixiAtmo.jl**<br>Benedict Geihe, Philipp Baasch, Tristan Montoya, Marco Artiano |
 | 15:30 | *Coffee break* |
 | 16:00 | **Free hackathon/collaboration** |
 | 17:30 | *End of day* |
@@ -42,11 +47,11 @@ particularly during free or hacking sessions.
 | Time  | Program |
 |-------|---------|
 | 08:30 | *Welcome coffee* |
-| 09:00 | **Session 3.1** |
+| 09:00 | *Chair: Gregor Gassner*<br><br>**TBD**<br>Jürgen Fuhrmann |
 | 10:30 | *Coffee break* |
-| 11:00 | **Session 3.2** |
+| 11:00 | *Chair: Hendrik Ranocha*<br><br>**TBD**<br>Daniel Bach<br><br>**TBD**<br>Vivienne Ehlert<br><br>**TBD**<br>Erik Faulhaber, Niklas Neher |
 | 12:30 | *Lunch break* |
-| 14:00 | **Session 3.3** |
+| 14:00 | **Hands-on: TrixiParticles.jl**<br>Sven Berger, Erik Faulhaber, Niklas Neher |
 | 15:30 | *Coffee break* |
 | 16:00 | **Free hackathon/collaboration** |
 | 17:30 | *End of day* |
@@ -58,11 +63,11 @@ particularly during free or hacking sessions.
 | Time  | Program |
 |-------|---------|
 | 08:30 | *Welcome coffee* |
-| 09:00 | **Session 4.1** |
+| 09:00 | *Chair: David Kopriva*<br><br>**TBD**<br>Jesse Chan |
 | 10:30 | *Coffee break* |
-| 11:00 | **Session 4.2** |
+| 11:00 | *Chair: Andrew Winters*<br><br>**TBD**<br>Simon Candelaresi<br><br>**TBD**<br>Patrick Ersing<br><br>**TBD**<br>David Kopriva |
 | 12:30 | *Lunch break* |
-| 14:00 | **Session 4.3** |
+| 14:00 | **Hands-on: HohqMesh.jl**<br>David Kopriva, Andrew Winters<br><br>**Hands-on: TrixiShallowWater.jl**<br>Andrew Winters, Patrick Ersing |
 | 15:30 | *Coffee break* |
 | 16:00 | **Free hackathon/collaboration** |
 | 17:30 | *End of day* |
@@ -74,9 +79,9 @@ particularly during free or hacking sessions.
 | Time  | Program |
 |-------|---------|
 | 08:30 | *Welcome coffee* |
-| 09:00 | **Session 5.1** |
+| 09:00 | *Chair: Michael Schlottke-Lakemper*<br><br>**TBD**<br>Andrés Rueda-Ramírez |
 | 10:30 | *Coffee break* |
-| 11:00 | **Session 5.2** |
+| 11:00 | *Chair: Gregor Gassner*<br><br>**TBD**<br>Daniel Döhring<br><br>**TBD**<br>Benjamin Bolm<br><br>**TBD**<br>Henry Haase |
 | 12:30 | **Closing**<br>Gregor Gassner, Michael Schlottke-Lakemper |
 | 12:45 | *Lunch break, departure* |
 
