@@ -1,5 +1,5 @@
 ---
-title: "Trixi User and Developer Interaction (TRUDI) Workshop 2026"
+title: "Trixi User and Developer Interaction (TRUDI) 2026"
 ---
 
 <div class="logo-wrapper">
@@ -70,6 +70,20 @@ strategy, and advancing key features in high-performance scientific computing.
   </figure>
 
 </div>
+
+In addition to the main Trixi Framework packages, we rely on - and actively collaborate with - a
+broader ecosystem of upstream dependencies and partner projects maintained by members of our
+community, including (but not limited to):
+
+- [HOHQMesh](https://github.com/trixi-framework/HOHQMesh) · [HOHQMesh.jl](https://github.com/trixi-framework/HOHQMesh.jl)
+- [libtrixi](https://github.com/trixi-framework/libtrixi)
+- [p4est](https://github.com/cburstedde/p4est) · [P4est.jl](https://github.com/trixi-framework/P4est.jl)
+- [PointNeighbors.jl](https://github.com/trixi-framework/PointNeighbors.jl)
+- [StartUpDG.jl](https://github.com/jlchan/StartUpDG.jl)
+- [SummationByPartsOperators.jl](https://github.com/ranocha/SummationByPartsOperators.jl)
+- [t8code](https://github.com/DLR-AMR/t8code) · [T8code.jl](https://github.com/DLR-AMR/T8code.jl)
+- [Trixi2Vtk.jl](https://github.com/trixi-framework/Trixi2Vtk.jl)
+- [TrixiBottomTopography.jl](https://github.com/trixi-framework/TrixiBottomTopography.jl)
 
 The event is co-hosted by [SNuBIC](snubic.qmd), the DFG
 research unit on "Structure-preserving Numerical Methods for Bulk and Interface-Coupling of
