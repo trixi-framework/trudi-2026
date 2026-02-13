@@ -8,6 +8,7 @@ website:
       - href: index.qmd
         text: Home
       - program.qmd
+      - participants.qmd
       - venue.qmd
       - organizers.qmd
       - snubic.qmd

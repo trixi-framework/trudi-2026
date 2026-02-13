@@ -1,0 +1,30 @@
+---
+title: "Participants"
+---
+
+1.  Marco **Artiano**, Johannes Gutenberg-University Mainz, Germany
+2.  Philipp **Baasch**, University of Cologne, Germany
+3.  Arpit **Babbar**, Johannes Gutenberg-University Mainz, Germany
+4.  Daniel **Bach**, University of Cologne, Germany
+5.  Sven **Berger**, Helmholtz-Zentrum Hereon, Geesthacht, Germany
+6.  Benjamin **Bolm**, University of Cologne, Germany
+7.  Simon **Candelaresi**, University of Augsburg, Germany
+8.  Jesse **Chan**, University of Texas at Austin, USA
+9.  Valentin **Churavy**, University of Augsburg, Germany
+10. Daniel **Döhring**, RWTH Aachen University, Germany
+11. Vivienne **Ehlert**, University of Augsburg, Germany
+12. Patrick **Ersing**, Linköping University, Sweden
+13. Erik **Faulhaber**, University of Cologne, Germany
+14. Jürgen **Fuhrmann**, Weierstrass Institute, Berlin, Germany
+15. Gregor **Gassner**, University of Cologne, Germany
+16. Benedict **Geihe**, University of Cologne, Germany
+17. Henry **Haase**, Linköping University, Sweden
+18. Sherin **Joseph**, University of Augsburg, Germany
+19. Oswald **Knoth**, Leibniz Institute for Tropospheric Research, Leipzig, Germany
+20. David **Kopriva**, San Diego State University, USA
+21. Tristan **Montoya**, University of Saskatchewan, Canada
+22. Niklas **Neher**, University of Stuttgart, Germany
+23. Hendrik **Ranocha**, Johannes Gutenberg-University Mainz, Germany
+24. Andrés **Rueda-Ramírez**, Polytechnic University of Madrid, Spain
+25. Michael **Schlottke-Lakemper**, University of Augsburg, Germany
+26. Andrew **Winters**, Linköping University, Sweden
