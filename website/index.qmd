@@ -2,9 +2,14 @@
 title: "Trixi User and Developer Interaction (TRUDI) Workshop 2026"
 ---
 
-![](assets/trixi.png){fig-alt="Trixi logo" width=220}
-
-**16–20 March 2026 · Cologne, Germany**
+<div class="logo-wrapper">
+  <figure class="logo-box">
+    <img src="assets/TRUDI2026_1024.jpg" alt="TRUDI 2026 logo" style="width: 420px; height: auto;">
+    <figcaption class="logo-caption">
+      <strong>16–20 March 2026 • Cologne, Germany</strong>
+    </figcaption>
+  </figure>
+</div>
 
 TRUDI 2026 is a workshop bringing together users and developers of the Trixi Framework.  The program
 will feature talks, tutorials, and a hackathon aimed at consolidating the existing community,

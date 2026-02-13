@@ -3,7 +3,7 @@ project:
 website:
   title: "TRUDI 2026"
   navbar:
-    logo: assets/trixi.png
+    logo: assets/TRUDI2026_notext_256x256.png
     left:
       - href: index.qmd
         text: Home
@@ -19,5 +19,6 @@ format:
   html:
     theme: cosmo
     toc: true
+    css: styles.css
 execute:
   freeze: auto
