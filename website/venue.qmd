@@ -7,6 +7,11 @@ Cologne" width=425}
 
 TRUDI 2026 will take place at the Mathematical Institute of the University of Cologne, Germany.
 
+All scheduled talks and organized sessions will be held in the
+main room **Cohn-Vossen** (room 313). Adjacent to it, **Seminarraum 3** (room 314) will serve as the catering area for
+lunch and coffee breaks and as an informal workspace for discussions and small-group collaboration,
+particularly during free or hacking sessions.
+
 ## Address
 University of Cologne  
 Faculty of Mathematics and Natural Sciences  
@@ -24,4 +29,16 @@ Germany
 <small>
   <a href="https://www.openstreetmap.org/directions?from=&to=50.929045,6.924112" target="_blank">Directions (OpenStreetMap)</a> |
   <a href="https://www.google.com/maps/place/Weyertal+86,+50931+K%C3%B6ln,+Deutschland/@50.9288833,6.9242153,17z/data=!3m1!4b1!4m2!3m1!1s0x47bf24e3bcbf6d1d:0x4ff72c4f32fa6d51?hl=de" target="_blank">Directions (Google Maps)</a>
+</small>
+
+## Evening activities
+There are many restaurants and bars in Cologne (obviously!). Relatively close to the workshop venue
+is an area called *Zülpicher Straße*, starting at the tram station *Dasselstraße/Bf Süd*. There
+are many options for dinner and drinks.
+
+<iframe width="425" height="350" src="https://www.openstreetmap.org/export/embed.html?bbox=6.934162080287934%2C50.92776959514966%2C6.938319504261018%2C50.92929617764273&amp;layer=mapnik&amp;marker=50.92853289265876%2C6.936240792274475" style="border: 1px solid black">
+</iframe>
+<small>
+  <a href="https://www.openstreetmap.org/directions?from=&to=50.928533,6.936241" target="_blank">Directions (OpenStreetMap)</a> |
+  <a href="https://maps.app.goo.gl/mNM76okd1ft9HsZcA" target="_blank">Directions (Google Maps)</a>
 </small>
