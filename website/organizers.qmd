@@ -2,9 +2,16 @@
 title: "Organizers"
 ---
 
+## Scientific committee
 - [Gregor Gassner](https://www.mi.uni-koeln.de/NumSim/gregor-gassner) (University of Cologne)
 - [Michael Schlottke-Lakemper](https://hpsc.math.uni-augsburg.de) (University of Augsburg)
 - [Manuel Torrilhon](https://acom.rwth-aachen.de/) (RWTH Aachen University)
 
 **Contact:** [Gregor Gassner](mailto:ggassner@uni-koeln.de) or [Michael
-Schlottke-Lakemper](michael.schlottke-lakemper@uni-a.de)
+Schlottke-Lakemper](mailto:michael.schlottke-lakemper@uni-a.de)
+
+## Local organizers
+- [Gregor Gassner](https://www.mi.uni-koeln.de/NumSim/gregor-gassner) (University of Cologne)
+- [Sabine Musielack-Erle](https://www.mi.uni-koeln.de/NumSim/musielack-erle) (University of Cologne)
+
+**Contact:** [Gregor Gassner](mailto:ggassner@uni-koeln.de) or [Sabine Musielack-Erle](mailto:sabine.musielack-erle@uni-koeln.de)
