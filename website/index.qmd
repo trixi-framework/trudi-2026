@@ -84,6 +84,7 @@ community, including (but not limited to):
 - [t8code](https://github.com/DLR-AMR/t8code) · [T8code.jl](https://github.com/DLR-AMR/T8code.jl)
 - [Trixi2Vtk.jl](https://github.com/trixi-framework/Trixi2Vtk.jl)
 - [TrixiBottomTopography.jl](https://github.com/trixi-framework/TrixiBottomTopography.jl)
+- [TrixiLW.jl](https://github.com/Arpit-Babbar/TrixiLW.jl)
 
 The event is co-hosted by [SNuBIC](snubic.qmd), the DFG
 research unit on "Structure-preserving Numerical Methods for Bulk and Interface-Coupling of
