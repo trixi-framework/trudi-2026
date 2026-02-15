@@ -91,7 +91,7 @@ This schedule is a preliminary outline and subject to change. Session contents, 
 | 08:30 | *Welcome coffee* |
 | 09:00 | *Plenary talk (Chair: David Kopriva)*<br><br>**TBD**<br>Jesse Chan |
 | 10:30 | *Coffee break* |
-| 11:00 | *Contributed talks (Chair: Andrew Winters)*<br><br>**TBD**<br>Daniel Döhring<br><br>**TBD**<br>Patrick Ersing<br><br>**New HOHQMesh Features**<br>David Kopriva |
+| 11:00 | *Contributed talks (Chair: Andrew Winters)*<br><br>**Volume Term Adaptivity for Discontinuous Galerkin Schemes**<br>Daniel Döhring<br><br>**TBD**<br>Patrick Ersing<br><br>**New HOHQMesh Features**<br>David Kopriva |
 | 12:30 | *Lunch break* |
 | 14:00 | *Hands-on session*<br><br>**HOHQMesh.jl**<br>David Kopriva, Andrew Winters<br><br>**TrixiShallowWater.jl**<br>Andrew Winters, Patrick Ersing |
 | 15:30 | *Coffee break* |
