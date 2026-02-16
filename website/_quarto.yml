@@ -23,5 +23,7 @@ format:
     theme: cosmo
     toc: true
     css: styles.css
+    include-in-header: |
+      <link href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/font/bootstrap-icons.css" rel="stylesheet">
 execute:
   freeze: auto

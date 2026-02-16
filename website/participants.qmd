@@ -2,29 +2,29 @@
 title: "Participants"
 ---
 
-1.  Marco **Artiano**, Johannes Gutenberg-University Mainz, Germany
-2.  Philipp **Baasch**, University of Cologne, Germany
-3.  Arpit **Babbar**, Johannes Gutenberg-University Mainz, Germany
-4.  Daniel **Bach**, University of Cologne, Germany
-5.  Sven **Berger**, Helmholtz-Zentrum Hereon, Geesthacht, Germany
-6.  Benjamin **Bolm**, University of Cologne, Germany
-7.  Simon **Candelaresi**, University of Augsburg, Germany
-8.  Jesse **Chan**, University of Texas at Austin, USA
-9.  Valentin **Churavy**, University of Augsburg, Germany
-10. Daniel **Döhring**, RWTH Aachen University, Germany
-11. Vivienne **Ehlert**, University of Augsburg, Germany
-12. Patrick **Ersing**, Linköping University, Sweden
-13. Erik **Faulhaber**, University of Cologne, Germany
-14. Jürgen **Fuhrmann**, Weierstrass Institute, Berlin, Germany
-15. Gregor **Gassner**, University of Cologne, Germany
-16. Benedict **Geihe**, University of Cologne, Germany
-17. Henry **Haase**, Linköping University, Sweden
-18. Sherin **Joseph**, University of Augsburg, Germany
-19. Oswald **Knoth**, Leibniz Institute for Tropospheric Research, Leipzig, Germany
-20. David **Kopriva**, San Diego State University, USA
-21. Tristan **Montoya**, University of Saskatchewan, Canada
-22. Niklas **Neher**, University of Stuttgart, Germany
-23. Hendrik **Ranocha**, Johannes Gutenberg-University Mainz, Germany
-24. Andrés **Rueda-Ramírez**, Polytechnic University of Madrid, Spain
-25. Michael **Schlottke-Lakemper**, University of Augsburg, Germany
-26. Andrew **Winters**, Linköping University, Sweden
+1.  Marco **Artiano**, Johannes Gutenberg-University Mainz, Germany (<a href="https://www.numerik.mathematik.uni-mainz.de/marco-artiano/" target="_blank" rel="noopener"><i class="bi bi-globe"></i></a> <a href="https://github.com/MarcoArtiano" target="_blank" rel="noopener"><i class="bi bi-github"></i></a>)
+2.  Philipp **Baasch**, University of Cologne, Germany (<a href="https://www.mi.uni-koeln.de/NumSim/philipp-baasch/" target="_blank" rel="noopener"><i class="bi bi-globe"></i></a>)
+3.  Arpit **Babbar**, Johannes Gutenberg-University Mainz, Germany (<a href="https://babbar.dev/" target="_blank" rel="noopener"><i class="bi bi-globe"></i></a> <a href="https://github.com/Arpit-Babbar" target="_blank" rel="noopener"><i class="bi bi-github"></i></a>)
+4.  Daniel **Bach**, University of Cologne, Germany (<a href="https://www.mi.uni-koeln.de/NumSim/daniel-bach/" target="_blank" rel="noopener"><i class="bi bi-globe"></i></a>)
+5.  Sven **Berger**, Helmholtz-Zentrum Hereon, Geesthacht, Germany (<a href="https://www.hereon.de/institutes/surface_science/interface_modeling/team/098972/index.php.de" target="_blank" rel="noopener"><i class="bi bi-globe"></i></a> <a href="https://github.com/svchb" target="_blank" rel="noopener"><i class="bi bi-github"></i></a>)
+6.  Benjamin **Bolm**, University of Cologne, Germany (<a href="https://www.mi.uni-koeln.de/NumSim/benjamin-bolm/" target="_blank" rel="noopener"><i class="bi bi-globe"></i></a> <a href="https://github.com/bennibolm" target="_blank" rel="noopener"><i class="bi bi-github"></i></a>)
+7.  Simon **Candelaresi**, University of Augsburg, Germany (<a href="https://www.uni-augsburg.de/en/fakultaet/mntf/math/prof/hpsc/team/simon-candelaresi/" target="_blank" rel="noopener"><i class="bi bi-globe"></i></a> <a href="https://github.com/SimonCan" target="_blank" rel="noopener"><i class="bi bi-github"></i></a>)
+8.  Jesse **Chan**, University of Texas at Austin, USA (<a href="https://sites.google.com/view/jessechan/home" target="_blank" rel="noopener"><i class="bi bi-globe"></i></a> <a href="https://github.com/jlchan" target="_blank" rel="noopener"><i class="bi bi-github"></i></a>)
+9.  Valentin **Churavy**, University of Augsburg/JGU Mainz, Germany (<a href="https://vchuravy.dev" target="_blank" rel="noopener"><i class="bi bi-globe"></i></a> <a href="https://github.com/vchuravy" target="_blank" rel="noopener"><i class="bi bi-github"></i></a>)
+10. Daniel **Döhring**, RWTH Aachen University, Germany (<a href="https://acom.rwth-aachen.de/the-lab/team-people/name:aleksey_sikstel/name:daniel_doehring" target="_blank" rel="noopener"><i class="bi bi-globe"></i></a> <a href="https://github.com/DanielDoehring" target="_blank" rel="noopener"><i class="bi bi-github"></i></a>)
+11. Vivienne **Ehlert**, University of Augsburg, Germany (<a href="https://www.uni-augsburg.de/en/fakultaet/mntf/math/prof/hpsc/team/vivienne-ehlert/" target="_blank" rel="noopener"><i class="bi bi-globe"></i></a> <a href="https://github.com/vivimie" target="_blank" rel="noopener"><i class="bi bi-github"></i></a>)
+12. Patrick **Ersing**, Linköping University, Sweden (<a href="https://liu.se/en/employee/pater53" target="_blank" rel="noopener"><i class="bi bi-globe"></i></a> <a href="https://github.com/patrickersing" target="_blank" rel="noopener"><i class="bi bi-github"></i></a>)
+13. Erik **Faulhaber**, University of Cologne, Germany (<a href="https://www.mi.uni-koeln.de/NumSim/erik-faulhaber/" target="_blank" rel="noopener"><i class="bi bi-globe"></i></a> <a href="https://github.com/efaulhaber" target="_blank" rel="noopener"><i class="bi bi-github"></i></a>)
+14. Jürgen **Fuhrmann**, Weierstrass Institute, Berlin, Germany (<a href="https://www.wias-berlin.de/people/fuhrmann/" target="_blank" rel="noopener"><i class="bi bi-globe"></i></a> <a href="https://github.com/j-fu" target="_blank" rel="noopener"><i class="bi bi-github"></i></a>)
+15. Gregor **Gassner**, University of Cologne, Germany (<a href="https://www.mi.uni-koeln.de/NumSim/gregor-gassner" target="_blank" rel="noopener"><i class="bi bi-globe"></i></a> <a href="https://github.com/gregorgassner" target="_blank" rel="noopener"><i class="bi bi-github"></i></a>)
+16. Benedict **Geihe**, University of Cologne, Germany (<a href="https://www.mi.uni-koeln.de/NumSim/dr-benedict-geihe/" target="_blank" rel="noopener"><i class="bi bi-globe"></i></a> <a href="https://github.com/benegee" target="_blank" rel="noopener"><i class="bi bi-github"></i></a>)
+17. Henry **Haase**, Linköping University, Sweden (<a href="https://liu.se/en/employee/henha21" target="_blank" rel="noopener"><i class="bi bi-globe"></i></a>)
+18. Sherin **Joseph**, University of Augsburg, Germany (<a href="https://github.com/sherin-joseph" target="_blank" rel="noopener"><i class="bi bi-github"></i></a>)
+19. Oswald **Knoth**, Leibniz Institute for Tropospheric Research, Leipzig, Germany (<a href="https://scholar.google.com/citations?user=35w7t1MAAAAJ" target="_blank" rel="noopener"><i class="bi bi-globe"></i></a>)
+20. David **Kopriva**, San Diego State University, USA (<a href="https://scholar.google.com/citations?user=px7ljwQAAAAJ" target="_blank" rel="noopener"><i class="bi bi-globe"></i></a> <a href="https://github.com/davidakopriva" target="_blank" rel="noopener"><i class="bi bi-github"></i></a>)
+21. Tristan **Montoya**, University of Saskatchewan, Canada (<a href="https://tjbmontoya.com/" target="_blank" rel="noopener"><i class="bi bi-globe"></i></a> <a href="https://github.com/tristanmontoya" target="_blank" rel="noopener"><i class="bi bi-github"></i></a>)
+22. Niklas **Neher**, University of Stuttgart, Germany (<a href="https://www.hlrs.de/de/team/niklas-neher" target="_blank" rel="noopener"><i class="bi bi-globe"></i></a> <a href="https://github.com/LasNikas" target="_blank" rel="noopener"><i class="bi bi-github"></i></a>)
+23. Hendrik **Ranocha**, Johannes Gutenberg-University Mainz, Germany (<a href="https://ranocha.de" target="_blank" rel="noopener"><i class="bi bi-globe"></i></a> <a href="https://github.com/ranocha" target="_blank" rel="noopener"><i class="bi bi-github"></i></a>)
+24. Andrés **Rueda-Ramírez**, Polytechnic University of Madrid, Spain (<a href="https://scholar.google.com/citations?user=P1Ck1ogAAAAJ" target="_blank" rel="noopener"><i class="bi bi-globe"></i></a> <a href="https://github.com/amrueda" target="_blank" rel="noopener"><i class="bi bi-github"></i></a>)
+25. Michael **Schlottke-Lakemper**, University of Augsburg, Germany (<a href="https://hpsc.math.uni-augsburg.de" target="_blank" rel="noopener"><i class="bi bi-globe"></i></a> <a href="https://github.com/sloede" target="_blank" rel="noopener"><i class="bi bi-github"></i></a>)
+26. Andrew **Winters**, Linköping University, Sweden (<a href="https://liu.se/en/employee/andwi94" target="_blank" rel="noopener"><i class="bi bi-globe"></i></a> <a href="https://github.com/andrewwinters5000" target="_blank" rel="noopener"><i class="bi bi-github"></i></a>)
