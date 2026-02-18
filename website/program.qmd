@@ -75,7 +75,7 @@ This schedule is a preliminary outline and subject to change. Session contents, 
 | 08:30 | *Welcome coffee* |
 | 09:00 | *Plenary talk (Chair: Gregor Gassner)*<br><br>**TBD**<br>Jürgen Fuhrmann |
 | 10:30 | *Coffee break* |
-| 11:00 | *Contributed talks (Chair: Hendrik Ranocha)*<br><br>**TBD**<br>Simon Candelaresi<br><br>**TBD**<br>Vivienne Ehlert<br><br>**TBD**<br>Erik Faulhaber, Niklas Neher |
+| 11:00 | *Contributed talks (Chair: Hendrik Ranocha)*<br><br>**Multiphysics Coupling with Trixi.jl**<br>Simon Candelaresi<br><br>**TBD**<br>Vivienne Ehlert<br><br>**TBD**<br>Erik Faulhaber, Niklas Neher |
 | 12:30 | *Lunch break* |
 | 14:00 | *Hands-on session*<br><br>**TrixiParticles.jl**<br>Sven Berger, Erik Faulhaber, Niklas Neher |
 | 15:30 | *Coffee break* |
