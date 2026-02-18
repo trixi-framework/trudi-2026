@@ -12,6 +12,7 @@ website:
       - venue.qmd
       - organizers.qmd
       - snubic.qmd
+      - universe.qmd
   page-footer:
     right:
       - href: organizers.qmd

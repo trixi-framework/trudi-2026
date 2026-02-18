@@ -1,0 +1,14 @@
+---
+title: "Universe"
+---
+
+The key profile area <a href="https://kpa-universe.uni-koeln.de" target="_blank" rel="nofollow noopener noreferrer">Dynamics of the Universe</a> of the
+University of Cologne coordinates research between different disciplines of astrophysics
+(observations, instrument development, theory & simulation, laboratory astrophysics),
+applied mathematics and computer science, digital humanities, and geophysics. One
+particular aim is to establish a new research area *Astroinformatics* at the University.
+A main part of the key profile area is the new cluster of excellence
+<a href="https://dynaverse.astro.uni-koeln.de/" target="_blank" rel="nofollow noopener noreferrer">DynaVerse</a>
+together with University Bonn, the Max Planck Institute for Radio Astronomy, the German Aerospace
+Center, and the Heidelberg Institute for Theoretical Studies. DynaVerse launched in January 2026.
+
