@@ -59,7 +59,7 @@ This schedule is a preliminary outline and subject to change. Session contents, 
 | 08:30 | *Welcome coffee* |
 | 09:00 | *Plenary talk (Chair: Jesse Chan)*<br><br>**TBD**<br>Valentin Churavy |
 | 10:30 | *Coffee break* |
-| 11:00 | *Contributed talks (Chair: Andrés Rueda-Ramírez)*<br><br>**TBD**<br>Tristan Montoya<br><br>**TBD**<br>Oswald Knoth<br><br>**TBD**<br>Marco Artiano |
+| 11:00 | *Contributed talks (Chair: Andrés Rueda-Ramírez)*<br><br>**TBD**<br>Tristan Montoya<br><br>**IMEX-like temporal integration schemes for numerical weather prediction**<br>Oswald Knoth<br><br>**TBD**<br>Marco Artiano |
 | 12:30 | *Lunch break* |
 | 14:00 | *Hands-on session*<br><br>**TrixiAtmo.jl**<br>Benedict Geihe, Philipp Baasch, Tristan Montoya, Marco Artiano |
 | 15:30 | *Coffee break* |
