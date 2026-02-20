@@ -59,7 +59,7 @@ This schedule is a preliminary outline and subject to change. Session contents, 
 | 08:30 | *Welcome coffee* |
 | 09:00 | *Plenary talk (Chair: Jesse Chan)*<br><br>**TBD**<br>Valentin Churavy |
 | 10:30 | *Coffee break* |
-| 11:00 | *Contributed talks (Chair: Andrés Rueda-Ramírez)*<br><br>**TBD**<br>Tristan Montoya<br><br>**IMEX-like temporal integration schemes for numerical weather prediction**<br>Oswald Knoth<br><br>**TBD**<br>Marco Artiano |
+| 11:00 | *Contributed talks (Chair: Andrés Rueda-Ramírez)*<br><br>**TBD**<br>Tristan Montoya<br><br>**IMEX-like temporal integration schemes for numerical weather prediction**<br>Oswald Knoth<br><br>**Structure-preserving methods for atmospheric flows**<br>Marco Artiano |
 | 12:30 | *Lunch break* |
 | 14:00 | *Hands-on session*<br><br>**TrixiAtmo.jl**<br>Benedict Geihe, Philipp Baasch, Tristan Montoya, Marco Artiano |
 | 15:30 | *Coffee break* |
@@ -107,7 +107,7 @@ This schedule is a preliminary outline and subject to change. Session contents, 
 | 08:30 | *Welcome coffee* |
 | 09:00 | *Plenary talk (Chair: Gregor Gassner)*<br><br>**TBD**<br>Andrés Rueda-Ramírez |
 | 10:30 | *Coffee break* |
-| 11:00 | *One idea talks (Chair: Michael Schlottke-Lakemper)*<br><br>**TBD**<br>Benjamin Bolm<br><br>**TBD**<br>Daniel Bach<br><br>**TBD**<br>Henry Haase<br><br>**TBD**<br>Arpit Babbar |
+| 11:00 | *One idea talks (Chair: Michael Schlottke-Lakemper)*<br><br>**TBD**<br>Benjamin Bolm<br><br>**TBD**<br>Daniel Bach<br><br>**TBD**<br>Henry Haase<br><br>**Relativistic hydrodynamics with adaptive mesh refinement in TrixiLW.jl**<br>Arpit Babbar |
 | 12:20 | **Closing**<br>Gregor Gassner, Michael Schlottke-Lakemper |
 | 12:30 | *Lunch, departure* 😭 |
 
