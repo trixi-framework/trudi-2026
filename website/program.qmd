@@ -45,7 +45,7 @@ This schedule is a preliminary outline and subject to change. Session contents, 
 |-------|---------|
 | 12:30 | *Arrival, registration, lunch* |
 | 14:00 | **Opening**<br>Gregor Gassner, Michael Schlottke-Lakemper |
-| 14:15 | *Plenary talk (Chair: Gregor Gassner)*<br><br>**TBD**<br>Michael Schlottke-Lakemper, Hendrik Ranocha|
+| 14:15 | *Plenary talk (Chair: Gregor Gassner)*<br><br>**The Trixi Framework 2026: State, Perspectives, and Work in Progress**<br>Michael Schlottke-Lakemper, Hendrik Ranocha|
 | 15:30 | *Coffee break* |
 | 16:00 | **Free hackathon/collaboration** |
 | 17:30 | *End of day* |
