@@ -105,7 +105,7 @@ This schedule is a preliminary outline and subject to change. Session contents, 
 | Time  | Program |
 |-------|---------|
 | 08:30 | *Welcome coffee* |
-| 09:00 | <span class="slot plenary">*Plenary talk (Chair: Gregor Gassner)*<br><br>**TBD**<br>Andrés Rueda-Ramírez</span> |
+| 09:00 | <span class="slot plenary">*Plenary talk (Chair: Gregor Gassner)*<br><br>**Recent Advances in Subcell Limiting for Spectral Element Solvers (Shock Capturing, Bounds Preservation, Well Balancing)**<br>Andrés Rueda-Ramírez</span> |
 | 10:30 | *Coffee break* |
 | 11:00 | <span class="slot oneidea">*One idea talks (Chair: Michael Schlottke-Lakemper)*<br><br>**TBD**<br>Benjamin Bolm<br><br>**TBD**<br>Daniel Bach<br><br>**TBD**<br>Henry Haase<br><br>**Relativistic hydrodynamics with adaptive mesh refinement in TrixiLW.jl**<br>Arpit Babbar</span> |
 | 12:20 | **Closing**<br>Gregor Gassner, Michael Schlottke-Lakemper |
