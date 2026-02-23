@@ -148,3 +148,55 @@ a:hover .bi{
   opacity: 1;
 }
 
+/* Inline “legend” pills in the intro text */
+.slotcat{
+  display: inline-block;
+  padding: 0.05rem 0.45rem;
+  border-radius: 999px;
+  border: 1px solid transparent;
+}
+
+/* Table cell wrappers (pipe tables -> use span, not div) */
+.slot{
+  display: inline-block;
+  width: 100%;
+  box-sizing: border-box;
+  padding: 8px 10px;
+  border-left: 3px solid;
+  border-radius: 6px;
+}
+
+/* Plenary: deep Trixi-ish blue */
+.slot.plenary, .slotcat.plenary{
+  background: rgba(30, 64, 175, 0.06);
+  border-color: rgba(30, 64, 175, 0.22);
+  border-left-color: rgba(30, 64, 175, 0.45);
+}
+
+/* Contributed: cool indigo/blue-gray */
+.slot.contributed, .slotcat.contributed{
+  background: rgba(51, 65, 85, 0.05);
+  border-color: rgba(51, 65, 85, 0.18);
+  border-left-color: rgba(51, 65, 85, 0.35);
+}
+
+/* One-idea: magenta/pink accent */
+.slot.oneidea, .slotcat.oneidea{
+  background: rgba(236, 72, 153, 0.06);
+  border-color: rgba(236, 72, 153, 0.20);
+  border-left-color: rgba(236, 72, 153, 0.40);
+}
+
+/* Hands-on: teal accent */
+.slot.handson, .slotcat.handson{
+  background: rgba(20, 184, 166, 0.06);
+  border-color: rgba(20, 184, 166, 0.20);
+  border-left-color: rgba(20, 184, 166, 0.40);
+}
+
+/* Open/free: warm yellow/orange accent */
+.slot.open, .slotcat.open{
+  background: rgba(234, 179, 8, 0.07);
+  border-color: rgba(234, 179, 8, 0.22);
+  border-left-color: rgba(234, 179, 8, 0.45);
+}

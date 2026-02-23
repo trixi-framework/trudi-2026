@@ -12,26 +12,26 @@ particularly during free or hacking sessions.
 There are four types of contributions: plenary talks, contributed talks, one idea talks, and
 hands-on sessions:
 
-* **Plenary talks** have a complete 90-minute slot (approx. 75 minutes contribution + 15 minutes
+* <span class="slotcat plenary">**Plenary talks**</span> have a complete 90-minute slot (approx. 75 minutes contribution + 15 minutes
   discussion) and can be a regular scientific presentation, a package introduction, a hands-on
   session, or a mixture thereof. Presenters are encouraged to add their slides to the
   [trudi-2026-materials](https://github.com/trixi-framework/trudi-2026-materials) repository.
-* **Contributed talks** have a 30-minute slot for a regular scientific presentation (approx. 25
+* <span class="slotcat contributed">**Contributed talks**</span> have a 30-minute slot for a regular scientific presentation (approx. 25
   minutes contribution + 5 minutes discussion) and are often thematically related to the afternoon
   hands-on sessions. Presenters are encouraged to add their slides to the
   [trudi-2026-materials](https://github.com/trixi-framework/trudi-2026-materials) repository.
-* **One idea talks** have a 20-minute slot (approx. 15 minutes contribution + 5 minutes discussion)
+* <span class="slotcat oneidea">**One idea talks**</span> have a 20-minute slot (approx. 15 minutes contribution + 5 minutes discussion)
   to present one specific concept (scheme, algorithm, code part etc.) or "one idea". Presenters are
   encouraged to add their slides to the
   [trudi-2026-materials](https://github.com/trixi-framework/trudi-2026-materials) repository.
-* **Hands-on sessions** have a complete 90-minute slot and its structure is completely up to the
+* <span class="slotcat handson">**Hands-on sessions**</span> have a complete 90-minute slot and its structure is completely up to the
   presenters. We suggest to include, e.g., features and capabilities, algorithmic and HPC aspects,
   current state and future developments, and an introduction into how to set up and run a simulation
   with your package. Any additional material for the TRUDI audience should be added to the
   [trudi-2026-materials](https://github.com/trixi-framework/trudi-2026-materials) repository.
 
-In addition, each afternoon there is an **open session** to interact and collaborate with other
-TRUDIs.  These slots can be freely used for, e.g., small meetings, coding sessions, or spontaneous
+In addition, each afternoon there is an <span class="slotcat open">**open session**</span> to interact and collaborate with other
+TRUDIs. These slots can be freely used for, e.g., small meetings, coding sessions, or spontaneous
 science heurekas.
 
 ::: {.callout-warning appearance="simple"}
@@ -45,9 +45,9 @@ This schedule is a preliminary outline and subject to change. Session contents, 
 |-------|---------|
 | 12:30 | *Arrival, registration, lunch* |
 | 14:00 | **Opening**<br>Gregor Gassner, Michael Schlottke-Lakemper |
-| 14:15 | *Plenary talk (Chair: Gregor Gassner)*<br><br>**The Trixi Framework 2026: State, Perspectives, and Work in Progress**<br>Michael Schlottke-Lakemper, Hendrik Ranocha|
+| 14:15 | <span class="slot plenary">*Plenary talk (Chair: Gregor Gassner)*<br><br>**The Trixi Framework 2026: State, Perspectives, and Work in Progress**<br>Michael Schlottke-Lakemper, Hendrik Ranocha</span> |
 | 15:30 | *Coffee break* |
-| 16:00 | **Free hackathon/collaboration** |
+| 16:00 | <span class="slot open">**Free hackathon/collaboration**</span> |
 | 17:30 | *End of day* |
 
 : {tbl-colwidths="[10,90]"}
@@ -57,13 +57,13 @@ This schedule is a preliminary outline and subject to change. Session contents, 
 | Time  | Program |
 |-------|---------|
 | 08:30 | *Welcome coffee* |
-| 09:00 | *Plenary talk (Chair: Jesse Chan)*<br><br>**TBD**<br>Valentin Churavy |
+| 09:00 | <span class="slot plenary">*Plenary talk (Chair: Jesse Chan)*<br><br>**TBD**<br>Valentin Churavy</span> |
 | 10:30 | *Coffee break* |
-| 11:00 | *Contributed talks (Chair: Andrés Rueda-Ramírez)*<br><br>**TBD**<br>Tristan Montoya<br><br>**IMEX-like temporal integration schemes for numerical weather prediction**<br>Oswald Knoth<br><br>**Structure-preserving methods for atmospheric flows**<br>Marco Artiano |
+| 11:00 | <span class="slot contributed">*Contributed talks (Chair: Andrés Rueda-Ramírez)*<br><br>**TBD**<br>Tristan Montoya<br><br>**IMEX-like temporal integration schemes for numerical weather prediction**<br>Oswald Knoth<br><br>**Structure-preserving methods for atmospheric flows**<br>Marco Artiano</span> |
 | 12:30 | *Lunch break* |
-| 14:00 | *Hands-on session*<br><br>**TrixiAtmo.jl**<br>Benedict Geihe, Philipp Baasch, Tristan Montoya, Marco Artiano |
+| 14:00 | <span class="slot handson">*Hands-on session*<br><br>**TrixiAtmo.jl**<br>Benedict Geihe, Philipp Baasch, Tristan Montoya, Marco Artiano</span> |
 | 15:30 | *Coffee break* |
-| 16:00 | **Free hackathon/collaboration** |
+| 16:00 | <span class="slot open">**Free hackathon/collaboration**</span> |
 | 17:30 | *End of day* |
 
 : {tbl-colwidths="[10,90]"}
@@ -73,13 +73,13 @@ This schedule is a preliminary outline and subject to change. Session contents, 
 | Time  | Program |
 |-------|---------|
 | 08:30 | *Welcome coffee* |
-| 09:00 | *Plenary talk (Chair: Gregor Gassner)*<br><br>**WIAS-PDELib.jl: a framework for solving elliptic and parabolic systems of PDEs using FEM and FVM discretization methods**<br>Jürgen Fuhrmann |
+| 09:00 | <span class="slot plenary">*Plenary talk (Chair: Gregor Gassner)*<br><br>**WIAS-PDELib.jl: a framework for solving elliptic and parabolic systems of PDEs using FEM and FVM discretization methods**<br>Jürgen Fuhrmann</span> |
 | 10:30 | *Coffee break* |
-| 11:00 | *Contributed talks (Chair: Hendrik Ranocha)*<br><br>**Multiphysics Coupling with Trixi.jl**<br>Simon Candelaresi<br><br>**TBD**<br>Vivienne Ehlert<br><br>**TBD**<br>Erik Faulhaber, Niklas Neher |
+| 11:00 | <span class="slot contributed">*Contributed talks (Chair: Hendrik Ranocha)*<br><br>**Multiphysics Coupling with Trixi.jl**<br>Simon Candelaresi<br><br>**TBD**<br>Vivienne Ehlert<br><br>**TBD**<br>Erik Faulhaber, Niklas Neher</span> |
 | 12:30 | *Lunch break* |
-| 14:00 | *Hands-on session*<br><br>**TrixiParticles.jl**<br>Sven Berger, Erik Faulhaber, Niklas Neher |
+| 14:00 | <span class="slot handson">*Hands-on session*<br><br>**TrixiParticles.jl**<br>Sven Berger, Erik Faulhaber, Niklas Neher</span> |
 | 15:30 | *Coffee break* |
-| 16:00 | **Free hackathon/collaboration** |
+| 16:00 | <span class="slot open">**Free hackathon/collaboration**</span> |
 | 17:30 | *End of day* |
 
 : {tbl-colwidths="[10,90]"}
@@ -89,13 +89,13 @@ This schedule is a preliminary outline and subject to change. Session contents, 
 | Time  | Program |
 |-------|---------|
 | 08:30 | *Welcome coffee* |
-| 09:00 | *Plenary talk (Chair: David Kopriva)*<br><br>**TBD**<br>Jesse Chan |
+| 09:00 | <span class="slot plenary">*Plenary talk (Chair: David Kopriva)*<br><br>**TBD**<br>Jesse Chan</span> |
 | 10:30 | *Coffee break* |
-| 11:00 | *Contributed talks (Chair: Andrew Winters)*<br><br>**Volume Term Adaptivity for Discontinuous Galerkin Schemes**<br>Daniel Döhring<br><br>**TBD**<br>Patrick Ersing<br><br>**New HOHQMesh Features**<br>David Kopriva |
+| 11:00 | <span class="slot contributed">*Contributed talks (Chair: Andrew Winters)*<br><br>**Volume Term Adaptivity for Discontinuous Galerkin Schemes**<br>Daniel Döhring<br><br>**TBD**<br>Patrick Ersing<br><br>**New HOHQMesh Features**<br>David Kopriva</span> |
 | 12:30 | *Lunch break* |
-| 14:00 | *Hands-on session*<br><br>**HOHQMesh.jl**<br>David Kopriva, Andrew Winters<br><br>**TrixiShallowWater.jl**<br>Andrew Winters, Patrick Ersing |
+| 14:00 | <span class="slot handson">*Hands-on session*<br><br>**HOHQMesh.jl**<br>David Kopriva, Andrew Winters<br><br>**TrixiShallowWater.jl**<br>Andrew Winters, Patrick Ersing</span> |
 | 15:30 | *Coffee break* |
-| 16:00 | **Open feedback session \| Free hackathon/collaboration** |
+| 16:00 | <span class="slot open">**Open feedback session \| Free hackathon/collaboration**</span> |
 | 17:30 | *End of day* |
 
 : {tbl-colwidths="[10,90]"}
@@ -105,9 +105,9 @@ This schedule is a preliminary outline and subject to change. Session contents, 
 | Time  | Program |
 |-------|---------|
 | 08:30 | *Welcome coffee* |
-| 09:00 | *Plenary talk (Chair: Gregor Gassner)*<br><br>**TBD**<br>Andrés Rueda-Ramírez |
+| 09:00 | <span class="slot plenary">*Plenary talk (Chair: Gregor Gassner)*<br><br>**TBD**<br>Andrés Rueda-Ramírez</span> |
 | 10:30 | *Coffee break* |
-| 11:00 | *One idea talks (Chair: Michael Schlottke-Lakemper)*<br><br>**TBD**<br>Benjamin Bolm<br><br>**TBD**<br>Daniel Bach<br><br>**TBD**<br>Henry Haase<br><br>**Relativistic hydrodynamics with adaptive mesh refinement in TrixiLW.jl**<br>Arpit Babbar |
+| 11:00 | <span class="slot oneidea">*One idea talks (Chair: Michael Schlottke-Lakemper)*<br><br>**TBD**<br>Benjamin Bolm<br><br>**TBD**<br>Daniel Bach<br><br>**TBD**<br>Henry Haase<br><br>**Relativistic hydrodynamics with adaptive mesh refinement in TrixiLW.jl**<br>Arpit Babbar</span> |
 | 12:20 | **Closing**<br>Gregor Gassner, Michael Schlottke-Lakemper |
 | 12:30 | *Lunch, departure* 😭 |
 
