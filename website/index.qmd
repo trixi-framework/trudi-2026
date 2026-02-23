@@ -96,3 +96,7 @@ Heterogeneous Models" (FOR5409).
 
 We gratefully acknowledge further support by the key profile area [Dynamics of the
 Universe](universe.qmd) of the University of Cologne.
+
+<div style="text-align:center;">
+![](assets/logo-uni-koeln.svg){fig-alt="University of Cologne logo" width=220}
+</div>
