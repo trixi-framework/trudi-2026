@@ -89,7 +89,7 @@ This schedule is a preliminary outline and subject to change. Session contents, 
 | Time  | Program |
 |-------|---------|
 | 08:30 | *Welcome coffee* |
-| 09:00 | <span class="slot plenary">*Plenary talk (Chair: David Kopriva)*<br><br>**TBD**<br>Jesse Chan</span> |
+| 09:00 | <span class="slot plenary">*Plenary talk (Chair: David Kopriva)*<br><br>**High order entropy correction methods in Trixi.jl**<br>Jesse Chan</span> |
 | 10:30 | *Coffee break* |
 | 11:00 | <span class="slot contributed">*Contributed talks (Chair: Andrew Winters)*<br><br>**Volume Term Adaptivity for Discontinuous Galerkin Schemes**<br>Daniel Döhring<br><br>**TBD**<br>Patrick Ersing<br><br>**New HOHQMesh Features**<br>David Kopriva</span> |
 | 12:30 | *Lunch break* |
