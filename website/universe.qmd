@@ -16,4 +16,11 @@ A main part of the key profile area is the new cluster of excellence
 together with University Bonn, the Max Planck Institute for Radio Astronomy, the German Aerospace
 Center, and the Heidelberg Institute for Theoretical Studies. DynaVerse launched in January 2026.
 
-![](assets/dfg_logo_schriftzug_blau_foerderung_en.svg){fig-alt="DFG logo" width=220}
+<div style="display:flex; justify-content:center; align-items:center; margin-top:2em;">
+  <img src="assets/dfg_logo_schriftzug_blau_foerderung_en.svg"
+       alt="DFG logo"
+       style="height:75px; margin-right:50px;">
+  <img src="assets/DynamicUniverse_Logo_Small.png"
+       alt="DynaVerse logo"
+       style="height:75px;">
+</div>
