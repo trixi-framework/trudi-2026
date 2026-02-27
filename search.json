@@ -67,7 +67,7 @@
     "href": "program.html#wednesday-18th-march-2026",
     "title": "Program",
     "section": "Wednesday, 18th March 2026",
-    "text": "Wednesday, 18th March 2026\n\n\n\n\n\n\n\nTime\nProgram\n\n\n\n\n08:30\nWelcome coffee\n\n\n09:00\nPlenary talk (Chair: Gregor Gassner)WIAS-PDELib.jl: a framework for solving elliptic and parabolic systems of PDEs using FEM and FVM discretization methodsJürgen Fuhrmann\n\n\n10:30\nCoffee break\n\n\n11:00\nContributed talks (Chair: Hendrik Ranocha)Multiphysics Coupling with Trixi.jlSimon CandelaresiTBDVivienne EhlertBlood, Blades, and Bends: Fluid-Structure Interaction with SPH on GPUsErik Faulhaber, Niklas Neher\n\n\n12:30\nLunch break\n\n\n14:00\nHands-on sessionTrixiParticles.jlSven Berger, Erik Faulhaber, Niklas Neher\n\n\n15:30\nCoffee break\n\n\n16:00\nFree hackathon/collaboration\n\n\n17:30\nEnd of day"
+    "text": "Wednesday, 18th March 2026\n\n\n\n\n\n\n\nTime\nProgram\n\n\n\n\n08:30\nWelcome coffee\n\n\n09:00\nPlenary talk (Chair: Gregor Gassner)WIAS-PDELib.jl: a framework for solving elliptic and parabolic systems of PDEs using FEM and FVM discretization methodsJürgen Fuhrmann\n\n\n10:30\nCoffee break\n\n\n11:00\nContributed talks (Chair: Hendrik Ranocha)Multiphysics Coupling with Trixi.jlSimon CandelaresiParallel Adaptive Multisolver Coupling with Trixi.jl and deal.IIVivienne EhlertBlood, Blades, and Bends: Fluid-Structure Interaction with SPH on GPUsErik Faulhaber, Niklas Neher\n\n\n12:30\nLunch break\n\n\n14:00\nHands-on sessionTrixiParticles.jlSven Berger, Erik Faulhaber, Niklas Neher\n\n\n15:30\nCoffee break\n\n\n16:00\nFree hackathon/collaboration\n\n\n17:30\nEnd of day"
   },
   {
     "objectID": "program.html#thursday-19th-march-2026",
