@@ -34,20 +34,114 @@ In addition, each afternoon there is an <span class="slotcat open">**open sessio
 TRUDIs. These slots can be freely used for, e.g., small meetings, coding sessions, or spontaneous
 science heurekas.
 
-::: {.callout-warning appearance="simple"}
-**Provisional program.**
-This schedule is a preliminary outline and subject to change. Session contents, speakers, and timings may be updated as the workshop approaches.
-:::
+## Schedule overview
+
+<table class="overview-table">
+<thead>
+<tr>
+  <th class="col-time">Time</th>
+  <th><a href="#monday-16th-march-2026">Mon 16</a></th>
+  <th><a href="#tuesday-17th-march-2026">Tue 17</a></th>
+  <th><a href="#wednesday-18th-march-2026">Wed 18</a></th>
+  <th><a href="#thursday-19th-march-2026">Thu 19</a></th>
+  <th><a href="#friday-20th-march-2026">Fri 20</a></th>
+</tr>
+</thead>
+<tbody>
+
+<tr>
+  <td class="col-time">08:30</td>
+  <td></td>
+  <td class="neutral">Welcome coffee</td>
+  <td class="neutral">Welcome coffee</td>
+  <td class="neutral">Welcome coffee</td>
+  <td class="neutral">Welcome coffee</td>
+</tr>
+
+<tr>
+  <td class="col-time">09:00</td>
+  <td></td>
+  <td><a href="#tue-plenary" class="slot plenary">Plenary</a></td>
+  <td><a href="#wed-plenary" class="slot plenary">Plenary</a></td>
+  <td><a href="#thu-plenary" class="slot plenary">Plenary</a></td>
+  <td><a href="#fri-plenary" class="slot plenary">Plenary</a></td>
+</tr>
+
+<tr>
+  <td class="col-time">10:30</td>
+  <td></td>
+  <td class="neutral">Coffee break</td>
+  <td class="neutral">Coffee break</td>
+  <td class="neutral">Coffee break</td>
+  <td class="neutral">Coffee break</td>
+</tr>
+
+<tr>
+  <td class="col-time">11:00</td>
+  <td></td>
+  <td><a href="#tue-contributed" class="slot contributed">Contributed talks</a></td>
+  <td><a href="#wed-contributed" class="slot contributed">Contributed talks</a></td>
+  <td><a href="#thu-contributed" class="slot contributed">Contributed talks</a></td>
+  <td><a href="#fri-oneidea" class="slot oneidea">One idea talks</a><a href="#fri-closing" class="slot neutral-closing">Closing</a></td>
+</tr>
+
+<tr>
+  <td class="col-time">12:30</td>
+  <td class="neutral">Arrival, lunch</td>
+  <td class="neutral">Lunch break</td>
+  <td class="neutral">Lunch break</td>
+  <td class="neutral">Lunch break</td>
+  <td><span class="neutral">Lunch, departure</span></td>
+</tr>
+
+<tr>
+  <td class="col-time">14:00</td>
+  <td><a href="#mon-opening" class="slot neutral-opening">Opening</a><a href="#mon-plenary" class="slot plenary">Plenary</a></td>
+  <td><a href="#tue-handson" class="slot handson">Hands-on</a></td>
+  <td><a href="#wed-handson" class="slot handson">Hands-on</a></td>
+  <td><a href="#thu-handson" class="slot handson">Hands-on</a></td>
+  <td></td>
+</tr>
+
+<tr>
+  <td class="col-time">15:30</td>
+  <td class="neutral">Coffee break</td>
+  <td class="neutral">Coffee break</td>
+  <td class="neutral">Coffee break</td>
+  <td class="neutral">Coffee break</td>
+  <td></td>
+</tr>
+
+<tr>
+  <td class="col-time">16:00</td>
+  <td><a href="#mon-open" class="slot open">Free hack/collab</a></td>
+  <td><a href="#tue-open" class="slot open">Free hack/collab</a></td>
+  <td><a href="#wed-open" class="slot open">Free hack/collab</a></td>
+  <td><a href="#thu-open" class="slot open">Free hack/collab</a></td>
+  <td></td>
+</tr>
+
+<tr>
+  <td class="col-time">17:30</td>
+  <td class="neutral">End of day</td>
+  <td class="neutral">End of day</td>
+  <td class="neutral">End of day</td>
+  <td class="neutral">End of day</td>
+  <td></td>
+</tr>
+
+</tbody>
+</table>
 
 ## Monday, 16th March 2026
 
 | Time  | Program |
 |-------|---------|
 | 12:30 | *Arrival, registration, lunch* |
-| 14:00 | **Opening**<br>Gregor Gassner, Michael Schlottke-Lakemper |
-| 14:15 | <span class="slot plenary">*Plenary talk (Chair: Gregor Gassner)*<br><br>**The Trixi Framework 2026: State, Perspectives, and Work in Progress**<br>Michael Schlottke-Lakemper, Hendrik Ranocha</span> |
+| 14:00 | <span id="mon-opening" class="slot neutral">**Opening**<br>Gregor Gassner, Michael Schlottke-Lakemper</span> |
+| 14:15 | <span id="mon-plenary" class="slot plenary">*Plenary talk (Chair: Gregor Gassner)*<br><br>**The Trixi Framework 2026: State, Perspectives, and Work in Progress**<br>Michael Schlottke-Lakemper, Hendrik Ranocha</span> |
 | 15:30 | *Coffee break* |
-| 16:00 | <span class="slot open">**Free hackathon/collaboration**</span> |
+| 16:00 | <span id="mon-open" class="slot open">**Free hackathon/collaboration**</span> |
 | 17:30 | *End of day* |
 
 : {tbl-colwidths="[10,90]"}
@@ -57,13 +151,13 @@ This schedule is a preliminary outline and subject to change. Session contents, 
 | Time  | Program |
 |-------|---------|
 | 08:30 | *Welcome coffee* |
-| 09:00 | <span class="slot plenary">*Plenary talk (Chair: Jesse Chan)*<br><br>**Performance Analysis with Julia for Trixi.jl**<br>Valentin Churavy</span> |
+| 09:00 | <span id="tue-plenary" class="slot plenary">*Plenary talk (Chair: Jesse Chan)*<br><br>**Performance Analysis with Julia for Trixi.jl**<br>Valentin Churavy</span> |
 | 10:30 | *Coffee break* |
-| 11:00 | <span class="slot contributed">*Contributed talks (Chair: Andrés Rueda-Ramírez)*<br><br>**Extending Trixi.jl to PDEs on manifolds**<br>Tristan Montoya<br><br>**IMEX-like temporal integration schemes for numerical weather prediction**<br>Oswald Knoth<br><br>**Structure-preserving methods for atmospheric flows**<br>Marco Artiano</span> |
+| 11:00 | <span id="tue-contributed" class="slot contributed">*Contributed talks (Chair: Andrés Rueda-Ramírez)*<br><br>**Extending Trixi.jl to PDEs on manifolds**<br>Tristan Montoya<br><br>**IMEX-like temporal integration schemes for numerical weather prediction**<br>Oswald Knoth<br><br>**Structure-preserving methods for atmospheric flows**<br>Marco Artiano</span> |
 | 12:30 | *Lunch break* |
-| 14:00 | <span class="slot handson">*Hands-on session*<br><br>**TrixiAtmo.jl**<br>Benedict Geihe, Philipp Baasch, Tristan Montoya, Marco Artiano</span> |
+| 14:00 | <span id="tue-handson" class="slot handson">*Hands-on session*<br><br>**TrixiAtmo.jl**<br>Benedict Geihe, Philipp Baasch, Tristan Montoya, Marco Artiano</span> |
 | 15:30 | *Coffee break* |
-| 16:00 | <span class="slot open">**Free hackathon/collaboration**</span> |
+| 16:00 | <span id="tue-open" class="slot open">**Free hackathon/collaboration**</span> |
 | 17:30 | *End of day* |
 
 : {tbl-colwidths="[10,90]"}
@@ -73,13 +167,13 @@ This schedule is a preliminary outline and subject to change. Session contents, 
 | Time  | Program |
 |-------|---------|
 | 08:30 | *Welcome coffee* |
-| 09:00 | <span class="slot plenary">*Plenary talk (Chair: Gregor Gassner)*<br><br>**WIAS-PDELib.jl: a framework for solving elliptic and parabolic systems of PDEs using FEM and FVM discretization methods**<br>Jürgen Fuhrmann</span> |
+| 09:00 | <span id="wed-plenary" class="slot plenary">*Plenary talk (Chair: Gregor Gassner)*<br><br>**WIAS-PDELib.jl: a framework for solving elliptic and parabolic systems of PDEs using FEM and FVM discretization methods**<br>Jürgen Fuhrmann</span> |
 | 10:30 | *Coffee break* |
-| 11:00 | <span class="slot contributed">*Contributed talks (Chair: Hendrik Ranocha)*<br><br>**Multiphysics Coupling with Trixi.jl**<br>Simon Candelaresi<br><br>**Parallel Adaptive Multisolver Coupling with Trixi.jl and deal.II**<br>Vivienne Ehlert<br><br>**Blood, Blades, and Bends: Fluid-Structure Interaction with SPH on GPUs**<br>Erik Faulhaber, Niklas Neher</span> |
+| 11:00 | <span id="wed-contributed" class="slot contributed">*Contributed talks (Chair: Hendrik Ranocha)*<br><br>**Multiphysics Coupling with Trixi.jl**<br>Simon Candelaresi<br><br>**Parallel Adaptive Multisolver Coupling with Trixi.jl and deal.II**<br>Vivienne Ehlert<br><br>**Blood, Blades, and Bends: Fluid-Structure Interaction with SPH on GPUs**<br>Erik Faulhaber, Niklas Neher</span> |
 | 12:30 | *Lunch break* |
-| 14:00 | <span class="slot handson">*Hands-on session*<br><br>**TrixiParticles.jl**<br>Sven Berger, Erik Faulhaber, Niklas Neher</span> |
+| 14:00 | <span id="wed-handson" class="slot handson">*Hands-on session*<br><br>**TrixiParticles.jl**<br>Sven Berger, Erik Faulhaber, Niklas Neher</span> |
 | 15:30 | *Coffee break* |
-| 16:00 | <span class="slot open">**Free hackathon/collaboration**</span> |
+| 16:00 | <span id="wed-open" class="slot open">**Free hackathon/collaboration**</span> |
 | 17:30 | *End of day* |
 
 : {tbl-colwidths="[10,90]"}
@@ -89,13 +183,13 @@ This schedule is a preliminary outline and subject to change. Session contents, 
 | Time  | Program |
 |-------|---------|
 | 08:30 | *Welcome coffee* |
-| 09:00 | <span class="slot plenary">*Plenary talk (Chair: David Kopriva)*<br><br>**High order entropy correction methods in Trixi.jl**<br>Jesse Chan</span> |
+| 09:00 | <span id="thu-plenary" class="slot plenary">*Plenary talk (Chair: David Kopriva)*<br><br>**High order entropy correction methods in Trixi.jl**<br>Jesse Chan</span> |
 | 10:30 | *Coffee break* |
-| 11:00 | <span class="slot contributed">*Contributed talks (Chair: Andrew Winters)*<br><br>**Volume Term Adaptivity for Discontinuous Galerkin Schemes**<br>Daniel Döhring<br><br>**A Hamiltonian Perspective on Steady-State Preserving Schemes**<br>Patrick Ersing<br><br>**New HOHQMesh Features**<br>David Kopriva</span> |
+| 11:00 | <span id="thu-contributed" class="slot contributed">*Contributed talks (Chair: Andrew Winters)*<br><br>**Volume Term Adaptivity for Discontinuous Galerkin Schemes**<br>Daniel Döhring<br><br>**A Hamiltonian Perspective on Steady-State Preserving Schemes**<br>Patrick Ersing<br><br>**New HOHQMesh Features**<br>David Kopriva</span> |
 | 12:30 | *Lunch break* |
-| 14:00 | <span class="slot handson">*Hands-on session*<br><br>**HOHQMesh.jl**<br>David Kopriva, Andrew Winters<br><br>**TrixiShallowWater.jl**<br>Andrew Winters, Patrick Ersing</span> |
+| 14:00 | <span id="thu-handson" class="slot handson">*Hands-on session*<br><br>**HOHQMesh.jl**<br>David Kopriva, Andrew Winters<br><br>**TrixiShallowWater.jl**<br>Andrew Winters, Patrick Ersing</span> |
 | 15:30 | *Coffee break* |
-| 16:00 | <span class="slot open">**Open feedback session \| Free hackathon/collaboration**</span> |
+| 16:00 | <span id="thu-open" class="slot open">**Open feedback session \| Free hackathon/collaboration**</span> |
 | 17:30 | *End of day* |
 
 : {tbl-colwidths="[10,90]"}
@@ -105,10 +199,10 @@ This schedule is a preliminary outline and subject to change. Session contents, 
 | Time  | Program |
 |-------|---------|
 | 08:30 | *Welcome coffee* |
-| 09:00 | <span class="slot plenary">*Plenary talk (Chair: Gregor Gassner)*<br><br>**Recent Advances in Subcell Limiting for Spectral Element Solvers (Shock Capturing, Bounds Preservation, Well Balancing)**<br>Andrés Rueda-Ramírez</span> |
+| 09:00 | <span id="fri-plenary" class="slot plenary">*Plenary talk (Chair: Gregor Gassner)*<br><br>**Recent Advances in Subcell Limiting for Spectral Element Solvers (Shock Capturing, Bounds Preservation, Well Balancing)**<br>Andrés Rueda-Ramírez</span> |
 | 10:30 | *Coffee break* |
-| 11:00 | <span class="slot oneidea">*One idea talks (Chair: Michael Schlottke-Lakemper)*<br><br>**Invariant domain preserving limiting with Adaptive Mesh Refinement for LGL Discontinuous Galerkin Spectral Element Methods**<br>Benjamin Bolm<br><br>**SBP-FDEC: A structure-preserving finite difference framework for divergence-free simulations**<br>Daniel Bach<br><br>**Spatially Varying Bases for FSBP Operators in Trixi**<br>Henry Haase<br><br>**Relativistic hydrodynamics with adaptive mesh refinement in TrixiLW.jl**<br>Arpit Babbar</span> |
-| 12:20 | **Closing**<br>Gregor Gassner, Michael Schlottke-Lakemper |
+| 11:00 | <span id="fri-oneidea" class="slot oneidea">*One idea talks (Chair: Michael Schlottke-Lakemper)*<br><br>**Invariant domain preserving limiting with Adaptive Mesh Refinement for LGL Discontinuous Galerkin Spectral Element Methods**<br>Benjamin Bolm<br><br>**SBP-FDEC: A structure-preserving finite difference framework for divergence-free simulations**<br>Daniel Bach<br><br>**Spatially Varying Bases for FSBP Operators in Trixi**<br>Henry Haase<br><br>**Relativistic hydrodynamics with adaptive mesh refinement in TrixiLW.jl**<br>Arpit Babbar</span> |
+| 12:20 | <span id="fri-closing" class="slot neutral">**Closing**<br>Gregor Gassner, Michael Schlottke-Lakemper</span> |
 | 12:30 | *Lunch, departure* 😭 |
 
 : {tbl-colwidths="[10,90]"}
