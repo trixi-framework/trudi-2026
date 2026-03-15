@@ -9,32 +9,9 @@ main room **Cohn-Vossen** (room 313). Adjacent to it, **Seminarraum 3** (room 31
 lunch and coffee breaks and as an informal workspace for discussions and small-group collaboration,
 particularly during free or hacking sessions.
 
-There are four types of contributions: plenary talks, contributed talks, one idea talks, and
-hands-on sessions:
+See [below](#session-types) for a description of the different session types.
 
-* <span class="slotcat plenary">**Plenary talks**</span> have a complete 90-minute slot (approx. 75 minutes contribution + 15 minutes
-  discussion) and can be a regular scientific presentation, a package introduction, a hands-on
-  session, or a mixture thereof. Presenters are encouraged to add their slides to the
-  [trudi-2026-materials](https://github.com/trixi-framework/trudi-2026-materials) repository.
-* <span class="slotcat contributed">**Contributed talks**</span> have a 30-minute slot for a regular scientific presentation (approx. 25
-  minutes contribution + 5 minutes discussion) and are often thematically related to the afternoon
-  hands-on sessions. Presenters are encouraged to add their slides to the
-  [trudi-2026-materials](https://github.com/trixi-framework/trudi-2026-materials) repository.
-* <span class="slotcat oneidea">**One idea talks**</span> have a 20-minute slot (approx. 15 minutes contribution + 5 minutes discussion)
-  to present one specific concept (scheme, algorithm, code part etc.) or "one idea". Presenters are
-  encouraged to add their slides to the
-  [trudi-2026-materials](https://github.com/trixi-framework/trudi-2026-materials) repository.
-* <span class="slotcat handson">**Hands-on sessions**</span> have a complete 90-minute slot and its structure is completely up to the
-  presenters. We suggest to include, e.g., features and capabilities, algorithmic and HPC aspects,
-  current state and future developments, and an introduction into how to set up and run a simulation
-  with your package. Any additional material for the TRUDI audience should be added to the
-  [trudi-2026-materials](https://github.com/trixi-framework/trudi-2026-materials) repository.
-
-In addition, each afternoon there is an <span class="slotcat open">**open session**</span> to interact and collaborate with other
-TRUDIs. These slots can be freely used for, e.g., small meetings, coding sessions, or spontaneous
-science heurekas.
-
-## Schedule overview
+## Overview
 
 <table class="overview-table">
 <thead>
@@ -146,6 +123,8 @@ science heurekas.
 
 : {tbl-colwidths="[10,90]"}
 
+[↑ Overview](#overview){.overview-back}
+
 ## Tuesday, 17th March 2026
 
 | Time  | Program |
@@ -161,6 +140,8 @@ science heurekas.
 | 17:30 | *End of day* |
 
 : {tbl-colwidths="[10,90]"}
+
+[↑ Overview](#overview){.overview-back}
 
 ## Wednesday, 18th March 2026
 
@@ -178,6 +159,8 @@ science heurekas.
 
 : {tbl-colwidths="[10,90]"}
 
+[↑ Overview](#overview){.overview-back}
+
 ## Thursday, 19th March 2026
 
 | Time  | Program |
@@ -194,6 +177,8 @@ science heurekas.
 
 : {tbl-colwidths="[10,90]"}
 
+[↑ Overview](#overview){.overview-back}
+
 ## Friday, 20th March 2026
 
 | Time  | Program |
@@ -206,3 +191,32 @@ science heurekas.
 | 12:30 | *Lunch, departure* 😭 |
 
 : {tbl-colwidths="[10,90]"}
+
+[↑ Overview](#overview){.overview-back}
+
+## Session types
+
+There are four types of contributions: plenary talks, contributed talks, one idea talks, and
+hands-on sessions:
+
+* <span class="slotcat plenary">**Plenary talks**</span> have a complete 90-minute slot (approx. 75 minutes contribution + 15 minutes
+  discussion) and can be a regular scientific presentation, a package introduction, a hands-on
+  session, or a mixture thereof. Presenters are encouraged to add their slides to the
+  [trudi-2026-materials](https://github.com/trixi-framework/trudi-2026-materials) repository.
+* <span class="slotcat contributed">**Contributed talks**</span> have a 30-minute slot for a regular scientific presentation (approx. 25
+  minutes contribution + 5 minutes discussion) and are often thematically related to the afternoon
+  hands-on sessions. Presenters are encouraged to add their slides to the
+  [trudi-2026-materials](https://github.com/trixi-framework/trudi-2026-materials) repository.
+* <span class="slotcat oneidea">**One idea talks**</span> have a 20-minute slot (approx. 15 minutes contribution + 5 minutes discussion)
+  to present one specific concept (scheme, algorithm, code part etc.) or "one idea". Presenters are
+  encouraged to add their slides to the
+  [trudi-2026-materials](https://github.com/trixi-framework/trudi-2026-materials) repository.
+* <span class="slotcat handson">**Hands-on sessions**</span> have a complete 90-minute slot and its structure is completely up to the
+  presenters. We suggest to include, e.g., features and capabilities, algorithmic and HPC aspects,
+  current state and future developments, and an introduction into how to set up and run a simulation
+  with your package. Any additional material for the TRUDI audience should be added to the
+  [trudi-2026-materials](https://github.com/trixi-framework/trudi-2026-materials) repository.
+
+In addition, each afternoon there is an <span class="slotcat open">**open session**</span> to interact and collaborate with other
+TRUDIs. These slots can be freely used for, e.g., small meetings, coding sessions, or spontaneous
+science heurekas.
