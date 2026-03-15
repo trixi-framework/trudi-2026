@@ -200,3 +200,95 @@ a:hover .bi{
   border-color: rgba(234, 179, 8, 0.22);
   border-left-color: rgba(234, 179, 8, 0.45);
 }
+
+/* Opening/closing: neutral */
+.slot.neutral {
+  color: #000000;
+  font-style: normal;
+  background-color: #fff;
+  border-left-color: #888;
+}
+
+.overview-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.85em;
+  table-layout: fixed;
+}
+.overview-table th,
+.overview-table td {
+  border: 1px solid #dee2e6;
+  padding: 0.35em 0.45em;
+  vertical-align: top;
+  text-align: left;
+  line-height: 1.3;
+}
+.overview-table th {
+  background: #f8f9fa;
+  font-weight: 600;
+  text-align: center;
+}
+.overview-table th a {
+  color: inherit;
+  font-weight: inherit;
+  text-decoration: none;
+}
+.overview-table th a:hover {
+  text-decoration: underline;
+}
+.overview-table .col-time {
+  width: 7%;
+  text-align: center;
+  color: #555;
+  font-size: 0.9em;
+  white-space: nowrap;
+}
+.overview-table .neutral {
+  color: #555;
+  font-style: italic;
+}
+.overview-table .slot.neutral-opening {
+  color: #000 !important;
+  font-style: normal !important;
+  margin-bottom: 0.3em;
+  background-color: #fff;
+  border-left-color: #888;
+}
+.overview-table .slot.neutral-closing {
+  color: #000 !important;
+  font-style: normal !important;
+  margin-top: 0.3em;
+  background-color: #fff;
+  border-left-color: #888;
+}
+/* Make .slot spans fill the full cell width */
+.overview-table .slot {
+  display: block;
+  padding: 0.2em 0.5em;
+  font-size: 0.9em;
+  font-weight: 600;
+  border-radius: 3px;
+}
+
+.overview-table .slot a,
+.overview-table a.slot {
+  color: inherit;
+  text-decoration: none;
+}
+.overview-table a.slot:hover {
+  text-decoration: underline;
+}
+
+.overview-back {
+  display: block;
+  text-align: right;
+  font-size: 0.85em;
+  margin-top: 0.25em;
+  margin-bottom: 1.5em;
+  text-decoration: none;
+  color: #888;
+}
+.overview-back:hover {
+  color: #333;
+  text-decoration: none;
+}
