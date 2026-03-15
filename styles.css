@@ -292,3 +292,12 @@ a:hover .bi{
   color: #333;
   text-decoration: none;
 }
+
+@media (max-width: 600px) {
+  .overview-table {
+    font-size: 0.75em;
+  }
+  .overview-table .col-time {
+    display: none;
+  }
+}
