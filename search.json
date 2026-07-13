@@ -1,45 +1,31 @@
 [
   {
-    "objectID": "universe.html",
-    "href": "universe.html",
-    "title": "Universe",
+    "objectID": "venue.html",
+    "href": "venue.html",
+    "title": "Venue",
     "section": "",
-    "text": "The key profile area Dynamics of the Universe of the University of Cologne coordinates research between different disciplines of astrophysics (observations, instrument development, theory & simulation, laboratory astrophysics), applied mathematics and computer science, digital humanities, and geophysics. One particular aim is to establish a new research area Astroinformatics at the University. A main part of the key profile area is the new cluster of excellence DynaVerse together with University Bonn, the Max Planck Institute for Radio Astronomy, the German Aerospace Center, and the Heidelberg Institute for Theoretical Studies. DynaVerse launched in January 2026."
+    "text": "TRUDI 2026 will take place at the Mathematical Institute of the University of Cologne, Germany.\nAll scheduled talks and organized sessions will be held in the main room Cohn-Vossen (room 313). Adjacent to it, Seminarraum 3 (room 314) will serve as the catering area for lunch and coffee breaks and as an informal workspace for discussions and small-group collaboration, particularly during free or hacking sessions."
   },
   {
-    "objectID": "organizers.html",
-    "href": "organizers.html",
-    "title": "Organizers",
-    "section": "",
-    "text": "Gregor Gassner (University of Cologne)\nMichael Schlottke-Lakemper (University of Augsburg)\nManuel Torrilhon (RWTH Aachen University)\n\nContact: Gregor Gassner or Michael Schlottke-Lakemper"
+    "objectID": "venue.html#address",
+    "href": "venue.html#address",
+    "title": "Venue",
+    "section": "Address",
+    "text": "Address\nUniversity of Cologne\nFaculty of Mathematics and Natural Sciences\nDivision of Mathematics\nWeyertal 86 – 90\n50931 Cologne\nGermany\n\n\n Directions (OpenStreetMap) | Directions (Google Maps)"
   },
   {
-    "objectID": "organizers.html#scientific-committee",
-    "href": "organizers.html#scientific-committee",
-    "title": "Organizers",
-    "section": "",
-    "text": "Gregor Gassner (University of Cologne)\nMichael Schlottke-Lakemper (University of Augsburg)\nManuel Torrilhon (RWTH Aachen University)\n\nContact: Gregor Gassner or Michael Schlottke-Lakemper"
+    "objectID": "venue.html#evening-activities",
+    "href": "venue.html#evening-activities",
+    "title": "Venue",
+    "section": "Evening activities",
+    "text": "Evening activities\nThere are many restaurants and bars in Cologne (obviously!). Relatively close to the workshop venue is an area called Zülpicher Straße, starting at the tram station Dasselstraße/Bf Süd. There are many options for dinner and drinks.\n\n\n Directions (OpenStreetMap) | Directions (Google Maps)"
   },
   {
-    "objectID": "organizers.html#local-organizers",
-    "href": "organizers.html#local-organizers",
-    "title": "Organizers",
-    "section": "Local organizers",
-    "text": "Local organizers\n\nGregor Gassner (University of Cologne)\nSabine Musielack-Erle (University of Cologne)\n\nContact: Gregor Gassner or Sabine Musielack-Erle"
-  },
-  {
-    "objectID": "participants.html",
-    "href": "participants.html",
-    "title": "Participants",
+    "objectID": "snubic.html",
+    "href": "snubic.html",
+    "title": "SNuBIC",
     "section": "",
-    "text": "Marco Artiano, Johannes Gutenberg-University Mainz, Germany ( )\nPhilipp Baasch, University of Cologne, Germany ()\nArpit Babbar, Johannes Gutenberg-University Mainz, Germany ( )\nDaniel Bach, University of Cologne, Germany ( )\nSven Berger, Helmholtz-Zentrum Hereon, Geesthacht, Germany ( )\nBenjamin Bolm, University of Cologne, Germany ( )\nSimon Candelaresi, University of Augsburg, Germany ( )\nJesse Chan, University of Texas at Austin, USA ( )\nValentin Churavy, University of Augsburg/JGU Mainz, Germany ( )\nDaniel Döhring, RWTH Aachen University, Germany ( )\nVivienne Ehlert, University of Augsburg, Germany ( )\nPatrick Ersing, Linköping University, Sweden ( )\nErik Faulhaber, University of Cologne, Germany ( )\nJürgen Fuhrmann, Weierstrass Institute, Berlin, Germany ( )\nGregor Gassner, University of Cologne, Germany ( )\nBenedict Geihe, University of Cologne, Germany ( )\nHenry Haase, Linköping University, Sweden ()\nSherin Joseph, University of Augsburg, Germany ()\nOswald Knoth, Leibniz Institute for Tropospheric Research, Leipzig, Germany ()\nDavid Kopriva, Florida State University, USA ( )\nMartin Kronbichler, Ruhr University Bochum, Germany ( )\nTristan Montoya, University of Saskatchewan, Canada ( )\nNiklas Neher, University of Stuttgart, Germany ( )\nHendrik Ranocha, Johannes Gutenberg-University Mainz, Germany ( )\nAndrés Rueda-Ramírez, Polytechnic University of Madrid, Spain ( )\nMichael Schlottke-Lakemper, University of Augsburg, Germany ( )\nManuel Torrilhon, RWTH Aachen University, Germany ( )\nAndrew Winters, Linköping University, Sweden ( )"
-  },
-  {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Trixi User and Developer Interaction (TRUDI) 2026",
-    "section": "",
-    "text": "16–20 March 2026 • Cologne, Germany\n\n\n\nTRUDI 2026 is a workshop bringing together users and developers of the Trixi Framework, which includes the Julia packages Trixi.jl, TrixiShallowWater.jl, TrixiAtmo.jl, and TrixiParticles.jl. The program will feature talks, tutorials, and hackathons aimed at consolidating the existing community, aligning long-term strategy, and advancing key features in high-performance scientific computing.\n\n\n \n\n\nTrixi.jl\n\n\nadaptive high-order CFD\n\n\n\n\n \n\n\nTrixiShallowWater.jl\n\n\nSWE applications\n\n\n\n\n \n\n\nTrixiAtmo.jl\n\n\natmospheric flow\n\n\n\n\n \n\n\nTrixiParticles.jl\n\n\nparticle-based multiphysics\n\n\n\n\nIn addition to the main Trixi Framework packages, we rely on - and actively collaborate with - a broader ecosystem of upstream dependencies and partner projects maintained by members of our community, including (but not limited to):\n\nHOHQMesh · HOHQMesh.jl\nlibtrixi\np4est · P4est.jl\nPointNeighbors.jl\nStartUpDG.jl\nSummationByPartsOperators.jl\nt8code · T8code.jl\nTrixi2Vtk.jl\nTrixiBottomTopography.jl\nTrixiLW.jl\n\nThe event is co-hosted by SNuBIC, the DFG research unit on “Structure-preserving Numerical Methods for Bulk and Interface-Coupling of Heterogeneous Models” (FOR5409). We gratefully acknowledge further support by the key profile area Dynamics of the Universe of the University of Cologne."
+    "text": "SNuBIC (short title for Structure-preserving Numerical Methods for Bulk and Interface-Coupling of Heterogeneous Models) is a team of researchers funded by the German Research Foundation under the grant number DFG-FOR5409 to investigate the modeling and simulation of coupled systems described by partial differential equations (PDEs). While the development of accurate numerical methods for various types of PDEs is still a very active research field, most complex applications are described by coupled systems of several PDEs, i.e. by heterogeneous models, like magnetised plasmas, complex fluids and electro-chemical processes. Key aspects of our research unit are bulk- and interface-coupling, structure-preserving numerical methods, and re-usable code development."
   },
   {
     "objectID": "program.html",
@@ -67,7 +53,7 @@
     "href": "program.html#tuesday-17th-march-2026",
     "title": "Program",
     "section": "Tuesday, 17th March 2026",
-    "text": "Tuesday, 17th March 2026\n\n\n\n\n\n\n\nTime\nProgram\n\n\n\n\n08:30\nWelcome coffee\n\n\n09:00\nPlenary talk (Chair: Jesse Chan)Performance Analysis with Julia for Trixi.jlValentin Churavy\n\n\n10:30\nCoffee break\n\n\n11:00\nContributed talks (Chair: Andrés Rueda-Ramírez)Extending Trixi.jl to PDEs on manifoldsTristan MontoyaIMEX-like temporal integration schemes for numerical weather predictionOswald KnothStructure-preserving methods for atmospheric flowsMarco Artiano\n\n\n12:30\nLunch break\n\n\n14:00\nHands-on sessionTrixiAtmo.jlBenedict Geihe, Philipp Baasch, Tristan Montoya, Marco Artiano\n\n\n15:30\nCoffee break\n\n\n16:00\nFree hackathon/collaboration\n\n\n17:30\nEnd of day\n\n\n\n↑ Overview"
+    "text": "Tuesday, 17th March 2026\n\n\n\n\n\n\n\nTime\nProgram\n\n\n\n\n08:30\nWelcome coffee\n\n\n09:00\nPlenary talk (Chair: Jesse Chan)Performance Analysis with Julia for Trixi.jlValentin Churavy\n\n\n10:30\nCoffee break\n\n\n11:00\nContributed talks (Chair: Andrés Rueda-Ramírez)TBD.Tristan MontoyaIMEX-like temporal integration schemes for numerical weather predictionOswald KnothStructure-preserving methods for atmospheric flowsMarco Artiano\n\n\n12:30\nLunch break\n\n\n14:00\nHands-on sessionTrixiAtmo.jlBenedict Geihe, Philipp Baasch, Tristan Montoya, Marco Artiano\n\n\n15:30\nCoffee break\n\n\n16:00\nFree hackathon/collaboration\n\n\n17:30\nEnd of day\n\n\n\n↑ Overview"
   },
   {
     "objectID": "program.html#wednesday-18th-march-2026",
@@ -98,31 +84,45 @@
     "text": "Session types\nThere are four types of contributions: plenary talks, contributed talks, one idea talks, and hands-on sessions:\n\nPlenary talks have a complete 90-minute slot (approx. 75 minutes contribution + 15 minutes discussion) and can be a regular scientific presentation, a package introduction, a hands-on session, or a mixture thereof. Presenters are encouraged to add their slides to the trudi-2026-materials repository.\nContributed talks have a 30-minute slot for a regular scientific presentation (approx. 25 minutes contribution + 5 minutes discussion) and are often thematically related to the afternoon hands-on sessions. Presenters are encouraged to add their slides to the trudi-2026-materials repository.\nOne idea talks have a 20-minute slot (approx. 15 minutes contribution + 5 minutes discussion) to present one specific concept (scheme, algorithm, code part etc.) or “one idea”. Presenters are encouraged to add their slides to the trudi-2026-materials repository.\nHands-on sessions have a complete 90-minute slot and its structure is completely up to the presenters. We suggest to include, e.g., features and capabilities, algorithmic and HPC aspects, current state and future developments, and an introduction into how to set up and run a simulation with your package. Any additional material for the TRUDI audience should be added to the trudi-2026-materials repository.\n\nIn addition, each afternoon there is an open session to interact and collaborate with other TRUDIs. These slots can be freely used for, e.g., small meetings, coding sessions, or spontaneous science heurekas."
   },
   {
-    "objectID": "snubic.html",
-    "href": "snubic.html",
-    "title": "SNuBIC",
+    "objectID": "participants.html",
+    "href": "participants.html",
+    "title": "Participants",
     "section": "",
-    "text": "SNuBIC (short title for Structure-preserving Numerical Methods for Bulk and Interface-Coupling of Heterogeneous Models) is a team of researchers funded by the German Research Foundation under the grant number DFG-FOR5409 to investigate the modeling and simulation of coupled systems described by partial differential equations (PDEs). While the development of accurate numerical methods for various types of PDEs is still a very active research field, most complex applications are described by coupled systems of several PDEs, i.e. by heterogeneous models, like magnetised plasmas, complex fluids and electro-chemical processes. Key aspects of our research unit are bulk- and interface-coupling, structure-preserving numerical methods, and re-usable code development."
+    "text": "Marco Artiano, Johannes Gutenberg-University Mainz, Germany ( )\nPhilipp Baasch, University of Cologne, Germany ()\nArpit Babbar, Johannes Gutenberg-University Mainz, Germany ( )\nDaniel Bach, University of Cologne, Germany ( )\nSven Berger, Helmholtz-Zentrum Hereon, Geesthacht, Germany ( )\nBenjamin Bolm, University of Cologne, Germany ( )\nSimon Candelaresi, University of Augsburg, Germany ( )\nJesse Chan, University of Texas at Austin, USA ( )\nValentin Churavy, University of Augsburg/JGU Mainz, Germany ( )\nDaniel Döhring, RWTH Aachen University, Germany ( )\nVivienne Ehlert, University of Augsburg, Germany ( )\nPatrick Ersing, Linköping University, Sweden ( )\nErik Faulhaber, University of Cologne, Germany ( )\nJürgen Fuhrmann, Weierstrass Institute, Berlin, Germany ( )\nGregor Gassner, University of Cologne, Germany ( )\nBenedict Geihe, University of Cologne, Germany ( )\nHenry Haase, Linköping University, Sweden ()\nSherin Joseph, University of Augsburg, Germany ()\nOswald Knoth, Leibniz Institute for Tropospheric Research, Leipzig, Germany ()\nDavid Kopriva, Florida State University, USA ( )\nMartin Kronbichler, Ruhr University Bochum, Germany ( )\nTristan Montoya, University of Saskatchewan, Canada ( )\nNiklas Neher, University of Stuttgart, Germany ( )\nHendrik Ranocha, Johannes Gutenberg-University Mainz, Germany ( )\nAndrés Rueda-Ramírez, Polytechnic University of Madrid, Spain ( )\nMichael Schlottke-Lakemper, University of Augsburg, Germany ( )\nManuel Torrilhon, RWTH Aachen University, Germany ( )\nAndrew Winters, Linköping University, Sweden ( )"
   },
   {
-    "objectID": "venue.html",
-    "href": "venue.html",
-    "title": "Venue",
+    "objectID": "universe.html",
+    "href": "universe.html",
+    "title": "Universe",
     "section": "",
-    "text": "TRUDI 2026 will take place at the Mathematical Institute of the University of Cologne, Germany.\nAll scheduled talks and organized sessions will be held in the main room Cohn-Vossen (room 313). Adjacent to it, Seminarraum 3 (room 314) will serve as the catering area for lunch and coffee breaks and as an informal workspace for discussions and small-group collaboration, particularly during free or hacking sessions."
+    "text": "The key profile area Dynamics of the Universe of the University of Cologne coordinates research between different disciplines of astrophysics (observations, instrument development, theory & simulation, laboratory astrophysics), applied mathematics and computer science, digital humanities, and geophysics. One particular aim is to establish a new research area Astroinformatics at the University. A main part of the key profile area is the new cluster of excellence DynaVerse together with University Bonn, the Max Planck Institute for Radio Astronomy, the German Aerospace Center, and the Heidelberg Institute for Theoretical Studies. DynaVerse launched in January 2026."
   },
   {
-    "objectID": "venue.html#address",
-    "href": "venue.html#address",
-    "title": "Venue",
-    "section": "Address",
-    "text": "Address\nUniversity of Cologne\nFaculty of Mathematics and Natural Sciences\nDivision of Mathematics\nWeyertal 86 – 90\n50931 Cologne\nGermany\n\n\n Directions (OpenStreetMap) | Directions (Google Maps)"
+    "objectID": "organizers.html",
+    "href": "organizers.html",
+    "title": "Organizers",
+    "section": "",
+    "text": "Gregor Gassner (University of Cologne)\nMichael Schlottke-Lakemper (University of Augsburg)\nManuel Torrilhon (RWTH Aachen University)\n\nContact: Gregor Gassner or Michael Schlottke-Lakemper"
   },
   {
-    "objectID": "venue.html#evening-activities",
-    "href": "venue.html#evening-activities",
-    "title": "Venue",
-    "section": "Evening activities",
-    "text": "Evening activities\nThere are many restaurants and bars in Cologne (obviously!). Relatively close to the workshop venue is an area called Zülpicher Straße, starting at the tram station Dasselstraße/Bf Süd. There are many options for dinner and drinks.\n\n\n Directions (OpenStreetMap) | Directions (Google Maps)"
+    "objectID": "organizers.html#scientific-committee",
+    "href": "organizers.html#scientific-committee",
+    "title": "Organizers",
+    "section": "",
+    "text": "Gregor Gassner (University of Cologne)\nMichael Schlottke-Lakemper (University of Augsburg)\nManuel Torrilhon (RWTH Aachen University)\n\nContact: Gregor Gassner or Michael Schlottke-Lakemper"
+  },
+  {
+    "objectID": "organizers.html#local-organizers",
+    "href": "organizers.html#local-organizers",
+    "title": "Organizers",
+    "section": "Local organizers",
+    "text": "Local organizers\n\nGregor Gassner (University of Cologne)\nSabine Musielack-Erle (University of Cologne)\n\nContact: Gregor Gassner or Sabine Musielack-Erle"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Trixi User and Developer Interaction (TRUDI) 2026",
+    "section": "",
+    "text": "16–20 March 2026 • Cologne, Germany\n\n\n\nTRUDI 2026 is a workshop bringing together users and developers of the Trixi Framework, which includes the Julia packages Trixi.jl, TrixiShallowWater.jl, TrixiAtmo.jl, and TrixiParticles.jl. The program will feature talks, tutorials, and hackathons aimed at consolidating the existing community, aligning long-term strategy, and advancing key features in high-performance scientific computing.\n\n\n \n\n\nTrixi.jl\n\n\nadaptive high-order CFD\n\n\n\n\n \n\n\nTrixiShallowWater.jl\n\n\nSWE applications\n\n\n\n\n \n\n\nTrixiAtmo.jl\n\n\natmospheric flow\n\n\n\n\n \n\n\nTrixiParticles.jl\n\n\nparticle-based multiphysics\n\n\n\n\nIn addition to the main Trixi Framework packages, we rely on - and actively collaborate with - a broader ecosystem of upstream dependencies and partner projects maintained by members of our community, including (but not limited to):\n\nHOHQMesh · HOHQMesh.jl\nlibtrixi\np4est · P4est.jl\nPointNeighbors.jl\nStartUpDG.jl\nSummationByPartsOperators.jl\nt8code · T8code.jl\nTrixi2Vtk.jl\nTrixiBottomTopography.jl\nTrixiLW.jl\n\nThe event is co-hosted by SNuBIC, the DFG research unit on “Structure-preserving Numerical Methods for Bulk and Interface-Coupling of Heterogeneous Models” (FOR5409). We gratefully acknowledge further support by the key profile area Dynamics of the Universe of the University of Cologne."
   }
 ]
