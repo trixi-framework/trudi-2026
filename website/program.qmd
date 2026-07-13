@@ -132,9 +132,9 @@ See [below](#session-types) for a description of the different session types.
 | 08:30 | *Welcome coffee* |
 | 09:00 | <span id="tue-plenary" class="slot plenary">*Plenary talk (Chair: Jesse Chan)*<br><br>**Performance Analysis with Julia for Trixi.jl**<br>Valentin Churavy</span> |
 | 10:30 | *Coffee break* |
-| 11:00 | <span id="tue-contributed" class="slot contributed">*Contributed talks (Chair: Andrés Rueda-Ramírez)*<br><br>**Extending Trixi.jl to PDEs on manifolds**<br>Tristan Montoya<br><br>**IMEX-like temporal integration schemes for numerical weather prediction**<br>Oswald Knoth<br><br>**Structure-preserving methods for atmospheric flows**<br>Marco Artiano</span> |
+| 11:00 | <span id="tue-contributed" class="slot contributed">*Contributed talks (Chair: Andrés Rueda-Ramírez)*<br><br>**TBD.**<br>Tristan Montoya<br><br>**IMEX-like temporal integration schemes for numerical weather prediction**<br>Oswald Knoth<br><br>**Structure-preserving methods for atmospheric flows**<br>Marco Artiano</span> |
 | 12:30 | *Lunch break* |
-| 14:00 | <span id="tue-handson" class="slot handson">*Hands-on session*<br><br>**TrixiAtmo.jl**<br>Benedict Geihe, Philipp Baasch, Tristan Montoya, Marco Artiano</span> |
+| 14:00 | <span id="tue-handson" class="slot handson">*Hands-on session*<br><br>**TrixiAtmo.jl**<br>Benedict Geihe, Philipp Baasch, Marco Artiano</span> |
 | 15:30 | *Coffee break* |
 | 16:00 | <span id="tue-open" class="slot open">**Free hackathon/collaboration**</span> |
 | 17:30 | *End of day* |
